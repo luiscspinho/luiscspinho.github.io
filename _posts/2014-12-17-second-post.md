@@ -6,7 +6,7 @@ modified:
 excerpt: "A life changing decision."
 tags: []
 image:
-  feature: eu.png
+  feature: sample-image-2.jpg
 ---
 
-Yeah.
+second.

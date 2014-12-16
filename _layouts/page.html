@@ -15,6 +15,7 @@
 
 {% if page.image.feature %}
   <div class="image-wrap">
+  {{post}}
   <img src=
     {% if page.image.feature contains 'http' %}
       "{{ page.image.feature }}"
