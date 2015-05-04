@@ -76,5 +76,5 @@ When we arrived we only had (once again) a little written paper that had our bus
 
 <figure>
 	<a href="../images/myanmar/2Yangon/bus.jpg"><img src="../images/myanmar/2Yangon/bus.jpg"></a>
-	<figcaption>Our bus company name.</figcaption>
+	<figcaption>The information we had to get to the bus.</figcaption>
 </figure>
