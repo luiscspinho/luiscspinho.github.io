@@ -55,7 +55,7 @@ When we reached our goal and, as always, there was a <i>surprise</i> waiting for
 
 Despite our tiredness, the way back to the guest house went smoothly apart for the gigantic snake we found on the road. As we were cycling we saw people ahead of us staring at something on the floor, but I could only figure out what it was when I got closer. What a surprise I had when I saw the giant snake and people looking at me in a funny way.
 
-When we arrived at the guest house there was a football game on the TV (Liverpool vs Arsenal for the ones curious) so we decided to hang around a bit with the owner and some random people that were either waiting for the bus to go to another city or just hanging around. Mental note for all of us, be careful when talking on your native language wherever in the world. What was our surprise when a German guy started to us in fluent Portuguese? Turns out he went to Brazil when in college and could talk fluently in our native language understanding perfectly everything we said. It was quite a surprise and we would arrange our boat trip for the next day with him. If by any means you're reading this, hi Tim!
+When we arrived at the guest house there was a football game on the TV (Liverpool vs Arsenal for the ones curious) so we decided to hang around a bit with the owner and some random people that were either waiting for the bus to go to another city or just hanging around. Mental note for all of us, be careful when talking on your native language wherever in the world. What was our surprise when a German guy started to talk us in fluent Portuguese? Turns out he went to Brazil when in college and could talk fluently in our native language understanding perfectly everything we said. It was quite a surprise and we would arrange our boat trip for the next day with him. If by any means you're reading this, hi Tim!
 
 We woke up early for our boat trip around the lake as one of the <i>must do things</i> in Inle Lake. When we got to the pier it was quite packed because everyone seemed to have started the tour at the same time.
 
@@ -73,10 +73,10 @@ The lake is HUGE. Its estimated surface area is 116 km2. There's all sorts of th
 
 <figure>
 	<a href="../images/myanmar/3InleLake/bt2.JPG"><img src="../images/myanmar/3InleLake/bt2.JPG"></a>
-	<figcaption>Houses of people that live in the river.</figcaption>
+	<figcaption>Houses on the river.</figcaption>
 </figure>
 
-Our first stop was just beside the floating gardens. Yes, people in the lake have a garden all designed above water where flowers grow. It was one of the nicest things that we say on the river, no doubt.
+Our first stop was just beside the floating gardens. Yes, people in the lake have a garden all designed above water where flowers grow. It was one of the nicest things that we saw on the river, no doubt.
 
 <figure>
 	<a href="../images/myanmar/3InleLake/bt3.JPG"><img src="../images/myanmar/3InleLake/bt3.JPG"></a>
