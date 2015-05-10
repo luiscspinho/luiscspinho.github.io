@@ -39,7 +39,7 @@ The first detour we took led us to a little rural <i>village</i> where there was
 	<figcaption>Our bikes in great style.</figcaption>
 </figure>
 
-We continued our journey always cycling by the rice fields where people were working and kids playing. The ride was quite nice despite the inexperience and fear by one of us, and I'll leave it like that. Our goal was to cycle alongside the lake and eventually we would reach a Pagoda with a nice view of the lake.
+We continued our journey always cycling by the rice fields where people were working and kids playing. Our goal was to cycle alongside the lake and eventually we would reach a Pagoda with a nice view of the lake.
 
 <figure>
 	<a href="../images/myanmar/3InleLake/ricefield.JPG"><img src="../images/myanmar/3InleLake/ricefield.JPG"></a>
