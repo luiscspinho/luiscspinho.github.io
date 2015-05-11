@@ -217,7 +217,10 @@ $button-size: 1.5rem;
 		@include prefix(12,1);
 		@include suffix(12,1);
 		margin-bottom: 2em;
-		@media #{$small} {
+		// typography line-length should be between 45-75 characters.
+		// this magic number is close to that.
+		max-width: 40em;
+		@media #{$medium} {
 			@include grid(12,6);
 			@include prefix(12,0);
 			@include suffix(12,0);
@@ -331,6 +334,7 @@ $button-size: 1.5rem;
 		border-bottom: 0 solid transparent;
 	}
 }
+
 .author-social {
   display: block;
   margin-bottom: 5px;
@@ -355,7 +359,7 @@ $button-size: 1.5rem;
 		max-width: 110px;
 		@include rounded(150px);
 	}
-	@media #{$small} {
+	@media #{$medium} {
 		display: block;
 		@include grid(12,2);
 		@include prefix(12,0.5);
