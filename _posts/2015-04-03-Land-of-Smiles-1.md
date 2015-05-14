@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Land of Smiles #1"
+title: "Land of Smiles #1 - Bangkok / Yangon"
 author: luis
 modified:
 excerpt: "The golden land where golden smiles live."
