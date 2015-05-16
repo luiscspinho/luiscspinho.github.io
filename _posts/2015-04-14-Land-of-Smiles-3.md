@@ -104,3 +104,33 @@ Another thing that we noticed is that there were a lot of local people that were
 </figure>
 
 
+As we were leaving the Pagoda to continue our journey, we were once again approached, but this time by a young girl that was a bit shy at first and even seemed nervous when talking to us. Basically, she asked what we expected, "<i>Can I take a photo with you</i>"? Only this time someone asked us to take a photo to actually keep it. She immediately called her sister, introduced us to her parents, and when we looked there was a crowd of people smiling and looking at a young girl socialising with foreigners. After this the girl thanked us for the photo and we were mesmerized by what just happened just to a guy to ask us where we came from. For our surprised he said "oh! I was there in Lisbon for the carnival!". We're talking to a Burmese guy, that was on an excursion to a random Pagoda in Kalaw that went to Lisbon. It was mind blowing.
+
+
+<figure>
+	<a href="../images/myanmar/4Kalaw/kalaw4.JPG"><img src="../images/myanmar/4Kalaw/kalaw4.JPG"></a>
+	<figcaption>The two shy but courageous sisters.</figcaption>
+</figure>
+
+
+We followed our path now with the goal to visit and ancient wooden Buddha that was supposed to be near the place where we were. Soon after the encounter with the girls, we saw a lot of people walking in our direction in an orderly way. We saw horses too, and heard music. We stopped to watch the parade because we had the luck to run into the ritual of the Monk initiation. I must confess that I thought that the families accompanying their children didn't seem too happy about that. After all, their child was going to be a Monk, living in a monastery. But, supposedly, it is a blessing, so I rest my case here.
+
+
+<figure>
+	<a href="../images/myanmar/4Kalaw/kalaw5.JPG"><img src="../images/myanmar/4Kalaw/kalaw5.JPG"></a>
+	<figcaption>Monks ritual #1.</figcaption>
+</figure>
+
+<figure>
+	<a href="../images/myanmar/4Kalaw/kalaw6.JPG"><img src="../images/myanmar/4Kalaw/kalaw6.JPG"></a>
+	<figcaption>Monks ritual #2.</figcaption>
+</figure>
+
+
+We reached the ancient wooden Buddha ahead of schedule, and had some time to kill before the bus to Bagan. We walked back slowly just in time to have a generous dinner and head straight away to the bus stop. We were so tired. Yet, so happy with everything that happened. Bagan, here we go.
+
+
+<figure>
+	<a href="../images/myanmar/4Kalaw/kalaw7.JPG"><img src="../images/myanmar/4Kalaw/kalaw7.JPG"></a>
+	<figcaption>Ancient wooden Buddha.</figcaption>
+</figure>
