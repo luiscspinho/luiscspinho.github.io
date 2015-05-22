@@ -79,7 +79,7 @@ We finally reach Kalaw and with great sadness we say goodbye to almost all the p
 </figure>
 
 
-Kalaw is really a small village, you shouldn't plan to stay there more than one day. After breakfast just walked around the village and ended up in a small monastery on top of a hill where we had the opportunity to have a sneak peek through a window where monks were sitting in the floor in an organised way. My guess was that they were in some kind of class as they seemed to have papers in front of them.
+Kalaw is really a small village, you shouldn't plan to stay there more than one day. After breakfast we just walked around the village and ended up in a small monastery on top of a hill where we had the opportunity to have a sneak peek through a window where monks were sitting in the floor in an organised way. My guess was that they were in some kind of class as they seemed to have papers in front of them.
 
 
 <figure>
@@ -104,7 +104,7 @@ Another thing that we noticed is that there were a lot of local people that were
 </figure>
 
 
-As we were leaving the Pagoda to continue our journey, we were once again approached, but this time by a young girl that was a bit shy at first and even seemed nervous when talking to us. Basically, she asked what we expected, "<i>Can I take a photo with you</i>"? Only this time someone asked us to take a photo to actually keep it. She immediately called her sister, introduced us to her parents, and when we looked there was a crowd of people smiling and looking at a young girl socialising with foreigners. After this the girl thanked us for the photo and we were mesmerized by what just happened just to a guy to ask us where we came from. For our surprised he said "oh! I was there in Lisbon for the carnival!". We're talking to a Burmese guy, that was on an excursion to a random Pagoda in Kalaw that went to Lisbon. It was mind blowing.
+As we were leaving the Pagoda to continue our journey, we were once again approached, but this time by a young girl that was a bit shy at first and even seemed nervous when talking to us. Basically, she asked what we expected, "<i>Can I take a photo with you</i>"? Only this time someone asked us to take a photo to actually keep it. She immediately called her sister, introduced us to her parents, and when we looked there was a crowd of people smiling and looking at a young girl socialising with foreigners. After this the girl thanked us for the photo, and we were mesmerized by what just happened. After that, a random guy asked us where we came from. For our surprise he said "oh! I was there in Lisbon for the carnival!". We're talking to a Burmese guy, that was on an excursion to a random Pagoda in Kalaw that went to Lisbon. It was mind blowing.
 
 
 <figure>
@@ -113,7 +113,7 @@ As we were leaving the Pagoda to continue our journey, we were once again approa
 </figure>
 
 
-We followed our path now with the goal to visit and ancient wooden Buddha that was supposed to be near the place where we were. Soon after the encounter with the girls, we saw a lot of people walking in our direction in an orderly way. We saw horses too, and heard music. We stopped to watch the parade because we had the luck to run into the ritual of the Monk initiation. I must confess that I thought that the families accompanying their children didn't seem too happy about that. After all, their child was going to be a Monk, living in a monastery. But, supposedly, it is a blessing, so I rest my case here.
+We followed our path now with the goal to visit and ancient wooden Buddha that was supposed to be near the place where we were. Soon after the encounter with the girls, we saw a lot of people walking in our direction in an orderly way. We saw horses too, and heard music. We stopped to watch the parade because we had the luck to run into the ritual of the Monk initiation. I must confess that I thought that the families accompanying their children would be more happy about that. After all, their child was going to be a Monk, living in a monastery. But, supposedly, it is a blessing, so I rest my case here.
 
 
 <figure>
