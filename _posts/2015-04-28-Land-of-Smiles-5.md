@@ -131,7 +131,7 @@ The rest of our day was spent visiting all the temples we could. One thing we sa
 
 <figure>
 	<a href="../images/myanmar/5Bagan/various2.jpg"><img src="../images/myanmar/5Bagan/various2.jpg"></a>
-	<figcaption>He was the younger Buddha we saw in Myanmar, so adorable.</figcaption>
+	<figcaption>He was the younger Monk we saw in Myanmar, so adorable.</figcaption>
 </figure>
 
 <figure>
