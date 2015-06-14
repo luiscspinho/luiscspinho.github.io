@@ -6,7 +6,7 @@ modified:
 excerpt: "The golden land where golden smiles live."
 tags: [memory, life, hapiness]
 image:
-  feature: photo.jpg
+  feature: photo.JPG
 ---
 
 We woke up <b>very</b> early because we planned to go see the sunrise. This time we did not rent the bike and decided to rent an E-Bike instead. Yes, you read it right, an E-Bike. Turns out that it is a great piece of business for them because it is, by far, the best way to glide through the temples in a fast and <i>funny</i> way and I really don't think that anyone will complain about the 8$ for a full day.
