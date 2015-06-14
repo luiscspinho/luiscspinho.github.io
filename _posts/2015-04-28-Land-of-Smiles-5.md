@@ -51,17 +51,17 @@ The river stop was short, but not short enough to not have people offering us th
 
 
 <figure>
-	<a href="../images/myanmar/5Bagan/river1.JPG"><img src="../images/myanmar/5Bagan/river1.JPG"></a>
+	<a href="../images/myanmar/5Bagan/river1.jpg"><img src="../images/myanmar/5Bagan/river1.jpg"></a>
 	<figcaption>Ayeyarwady River bay, from Bagan.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/5Bagan/river2.JPG"><img src="../images/myanmar/5Bagan/river2.JPG"></a>
+	<a href="../images/myanmar/5Bagan/river2.jpg"><img src="../images/myanmar/5Bagan/river2.jpg"></a>
 	<figcaption>The front of the monastery.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/5Bagan/river3.JPG"><img src="../images/myanmar/5Bagan/river3.JPG"></a>
+	<a href="../images/myanmar/5Bagan/river3.jpg"><img src="../images/myanmar/5Bagan/river3.jpg"></a>
 	<figcaption>Beautiful wood carving detail.</figcaption>
 </figure>
 
