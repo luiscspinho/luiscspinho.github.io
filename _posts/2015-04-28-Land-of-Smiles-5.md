@@ -6,7 +6,7 @@ modified:
 excerpt: "The golden land where golden smiles live."
 tags: [memory, life, hapiness]
 image:
-  feature: 
+  feature: photo.jpg
 ---
 
 We woke up <b>very</b> early because we planned to go see the sunrise. This time we did not rent the bike and decided to rent an E-Bike instead. Yes, you read it right, an E-Bike. Turns out that it is a great piece of business for them because it is, by far, the best way to glide through the temples in a fast and <i>funny</i> way and I really don't think that anyone will complain about the 8$ for a full day.
@@ -105,7 +105,10 @@ The Buddhas we saw inside were unique, because we had never seen anyone dressed 
 
 As we were going back to our journey, the guy said that he was an artist and had some of his paintings with him. He really wanted to show us his work and we couldn't say no to such a nice guy. He had some <b>amazing</b> paintings and we couldn't help to buy one of them.
 
-PHOTO
+<figure>
+	<a href="../images/myanmar/5Bagan/photo.JPG"><img src="../images/myanmar/5Bagan/photo.JPG"></a>
+	<figcaption>The paiting we bought.</figcaption>
+</figure>
 
 <figure>
 	<a href="../images/myanmar/5Bagan/guy1.JPG"><img src="../images/myanmar/5Bagan/guy1.JPG"></a>
