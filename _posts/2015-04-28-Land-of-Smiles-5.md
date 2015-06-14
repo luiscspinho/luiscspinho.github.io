@@ -19,7 +19,7 @@ The temple was a little <i>off the beaten track</i>, but had a great view and th
 
 
 <figure>
-	<a href="../images/myanmar/5Bagan/sunrise1.JPG"><img src="../images/myanmar/5Bagan/sunrise1.JPG"></a>
+	<a href="../images/myanmar/5Bagan/sunrise1.jpg"><img src="../images/myanmar/5Bagan/sunrise1.jpg"></a>
 	<figcaption>The view from the temple.</figcaption>
 </figure>
 
@@ -28,17 +28,17 @@ Soon after we settled there, a pair of hot air balloons was rising to the sky ab
 
 
 <figure>
-	<a href="../images/myanmar/5Bagan/sunrise2.JPG"><img src="../images/myanmar/5Bagan/sunrise2.JPG"></a>
+	<a href="../images/myanmar/5Bagan/sunrise2.jpg"><img src="../images/myanmar/5Bagan/sunrise2.jpg"></a>
 	<figcaption>Hot Air Balloon.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/5Bagan/sunrise3.JPG"><img src="../images/myanmar/5Bagan/sunrise3.JPG"></a>
+	<a href="../images/myanmar/5Bagan/sunrise3.jpg"><img src="../images/myanmar/5Bagan/sunrise3.jpg"></a>
 	<figcaption>The sun rising from the mist.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/5Bagan/sunrise4.JPG"><img src="../images/myanmar/5Bagan/sunrise4.JPG"></a>
+	<a href="../images/myanmar/5Bagan/sunrise4.jpg"><img src="../images/myanmar/5Bagan/sunrise4.jpg"></a>
 	<figcaption>Bagan, in all its glory.</figcaption>
 </figure>
 
