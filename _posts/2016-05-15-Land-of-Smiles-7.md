@@ -34,7 +34,7 @@ We enjoyed the afternoon by just walking around the city. The big difference bet
 	<figcaption>Beautiful sun.</figcaption>
 </figure>
 
-At night, we made the mistake of having dinner at a suspicious place that presented their food as the canteens do. If you're travelling through this part of the world and you don't feel like risking, never do it. I got food poisoned and had to spend a terrible night in a room where we'd to sleep with more than 25ºC all night. It was hell.
+At night, we made the mistake of having dinner at a suspicious place that presented their food as the canteens do. If you're travelling through this part of the world and you don't feel like risking, never do it. I got food poisoned and had to spend a terrible night in a room where we'd to sleep with more than 30ºC all night. It was hell.
 
 First thing in the morning, I went to talk to the owner of the guest house and explained my situation. Fortunately, he was kind enough to give us a much better room for only 5 more Dollars a night. I accepted it right away, because the thought of spending another night in hell is not appealing.
 
@@ -87,6 +87,8 @@ The advantage of using a local boat, besides being cheaper and you're helping th
 	<figcaption>Myatheindan pagoda.</figcaption>
 </figure>
 
+Since we were tourists we needed a special permit (basically pay for a ticket) to wander around the village, something that we never bought and didn't have any kind of trouble.
+
 The rest of the day was once again spent wandering around the streets of Mandalay. Tomorrow is the first day of the <b>Thyngian</b> festival and we couldn't expect what is about to happen.
 
 <figure>
@@ -100,7 +102,7 @@ And then finally the time has come to return to Yangon. The train should take ab
 
 Everything.
 
-That was the WORSE travel experience I had in my entire life. The railways do not have maintenance since the World War II, you can't sleep because of the noise that the train does, and the fact that when you lay down on the "bed" you'll surely be thrown around. It's just essentially impossible to stand still on that train. 12 hours later, we arrived at the capital once again, tired as hell, without sleep.
+That was the WORSE travel experience I had in my entire life. The railways do not have maintenance since the World War II, you can't sleep because of the noise that the train does, and the fact that when you lay down on the "bed" you'll surely be thrown around. It's just essentially impossible to stand still on that train. 15 hours later, we arrived at the capital once again, tired as hell, without sleep.
 
 <figure>
 	<a href="../images/myanmar/6Mandalay/train.JPG"><img src="../images/myanmar/6Mandalay/train.JPG"></a>
