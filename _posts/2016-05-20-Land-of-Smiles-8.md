@@ -6,7 +6,7 @@ modified:
 excerpt: "The golden land where golden smiles live."
 tags: [memory, life, hapiness]
 image:
-  feature: .JPG
+  feature: end.JPG
 ---
 
 Here we are, back to the starting point with our flight scheduled for 2 days from today. The train arrived at around 9am to the station, and fortunately nothing bad happened, we were just super tired. The first thing we had to do was to search some place to stay the remaining nights. I must say that for the price we got (roughly 18-20$ per night) we got one of the best places to stay in Myanmar. And if we take into consideration that we were in the capital during the most important festivity of the year, I should say that we got the room without any trouble.
@@ -48,3 +48,28 @@ I could only follow with a smile...
 	<figcaption>On the festivities 3.</figcaption>
 </figure>
 
+The last 2 days in Yangon were mainly used to wonder through the city and to rest. After 3 fast paced weeks with no rest, we were feeling tired and weren't much into adventures, also we already knew the majority of the city so I'll just leave here some pictures of the last couple of days.
+
+<figure>
+	<a href="../images/myanmar/7Yangon/cat.JPG"><img src="../images/myanmar/7Yangon/cat.JPG"></a>
+	<figcaption>"Hey, you need something?"</figcaption>
+</figure>
+
+<figure>
+	<a href="../images/myanmar/7Yangon/market.JPG"><img src="../images/myanmar/7Yangon/market.JPG"></a>
+	<figcaption>Meat selling on the streets of Yangon.</figcaption>
+</figure>
+
+<figure>
+	<a href="../images/myanmar/7Yangon/hindu.JPG"><img src="../images/myanmar/7Yangon/hindu.JPG"></a>
+	<figcaption>Hindu temple.</figcaption>
+</figure>
+
+<figure>
+	<a href="../images/myanmar/7Yangon/child.JPG"><img src="../images/myanmar/7Yangon/child.JPG"></a>
+	<figcaption>"A walk in the park".</figcaption>
+</figure>
+
+And that's it folks. It were 3 very tiring weeks but well worth it. Overall I loved that part of the world because of the scenery, culture and above all, the people. If you want to check out more photos of the trip, feel free to check <a href="https://www.flickr.com/photos/129019461@N04/albums">Flickr</a>.
+
+The end.
