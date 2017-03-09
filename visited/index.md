@@ -109,7 +109,8 @@ Next, <img src="../images/flags/eg.png"/> Egypt between 15 and 28 March!
 <img src="../images/flags/pt.png"/> Portugal <small>(too much...)</small><br>
 <img src="../images/flags/ro.png"/> Romania <small>(Cluj Napoca)</small><br>
 <img src="../images/flags/es.png"/> Spain <small>(Madrid, Santiago, Vigo)</small><br>
-<img src="../images/flags/tr.png"/> Turkey <small>(Istambul, Cappadocia, Olimpos, Kaş, Fethiye, Pamukkale)</small><br><br>
+<img src="../images/flags/tr.png"/> Turkey <small>(Istambul, Cappadocia, Olimpos, Kaş, Fethiye, Pamukkale)</small><br>
+<img src="../images/flags/gb.png"/> United Kingdom <small>(London)</small><br><br>
 
 <h1>Asia</h1>
 <img src="../images/flags/kh.png"/> Cambodia <small>(Phnom Penh, Kep, Kampot, Koh Rong Samloem, Sihanoukville, Battambang, Siem Riep)</small><br>
