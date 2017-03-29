@@ -83,6 +83,10 @@ areas :
   {
     "id": "VN",
     "showAsSelected": true
+  },
+  {
+    "id": "EG",
+    "showAsSelected": true
   }
 ]
 },
@@ -98,8 +102,6 @@ rollOverOutlineColor : "#000000"
 });
 </script>
 <br>
-Next, <img src="../images/flags/eg.png"/> Egypt between 15 and 28 March!
-<br>
 <br>
 <h1>Europe</h1>
 <img src="../images/flags/at.png"/> Austria <small>(Vienna)</small><br>
@@ -112,10 +114,13 @@ Next, <img src="../images/flags/eg.png"/> Egypt between 15 and 28 March!
 <img src="../images/flags/tr.png"/> Turkey <small>(Istambul, Cappadocia, Olimpos, Kaş, Fethiye, Pamukkale)</small><br>
 <img src="../images/flags/gb.png"/> United Kingdom <small>(London)</small><br><br>
 
+<h1>Africa</h1>
+<img src="../images/flags/eg.png"/> Egypt <small>(Cairo, Luxor, Aswan)</small><br><br>
+
 <h1>Asia</h1>
 <img src="../images/flags/kh.png"/> Cambodia <small>(Phnom Penh, Kep, Kampot, Koh Rong Samloem, Sihanoukville, Battambang, Siem Riep)</small><br>
 <img src="../images/flags/in.png"/> India <small>(New Delhi, Amritsar, McLeod Ganj, Rishikesh, Pushkar, Jaipur, Varanasi)</small><br>
 <img src="../images/flags/la.png"/> Lao <small>(4000 Islands, Pakse, Vientiane, Vang Vieng, Luang Prabang)</small><br>
 <img src="../images/flags/mm.png"/> Myanmar <small>(Yangon, Inle Lake, Kalaw, Bagan, Mandalay)</small><br>
 <img src="../images/flags/th.png"/> Thailand <small>(Bangkok 2x, Koh Samet)</small><br>
-<img src="../images/flags/vn.png"/> Viet Nam <small>(Hanoi, Cat Ba, Tam Coc, Hue, Hoi An, Nha Trang, Dalat, Saigon)</small><br>
+<img src="../images/flags/vn.png"/> Viet Nam <small>(Hanoi, Cat Ba, Tam Coc, Hue, Hoi An, Nha Trang, Dalat, Saigon)</small><br><br>
