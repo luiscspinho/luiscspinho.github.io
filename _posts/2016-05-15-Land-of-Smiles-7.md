@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Land of Smiles #7 - Mandalay"
+title: "Myanmar #7 - Mandalay"
 author: luis
 modified:
 excerpt: "The golden land where golden smiles live."
-tags: [memory, life, hapiness]
+tags: [memory, life, hapiness, Myanmar]
 image:
   feature: castle.JPG
 ---

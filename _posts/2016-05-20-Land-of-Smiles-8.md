@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Land of Smiles #8 - Yangon"
+title: "Myanmar #8 - Yangon"
 author: luis
 modified:
 excerpt: "The golden land where golden smiles live."
-tags: [memory, life, hapiness]
+tags: [memory, life, hapiness, Myanmar]
 image:
   feature: end.JPG
 ---

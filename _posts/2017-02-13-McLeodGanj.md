@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "McLeod Ganj - India"
+title: "McLeod Ganj #3 - India"
 author: luis
 modified:
 excerpt: "The Little Tibet in India."
-tags: [memory, life, hapiness]
+tags: [memory, life, hapiness, India]
 image:
   feature: ganj4.JPG
 ---

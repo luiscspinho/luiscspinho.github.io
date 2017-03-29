@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Land of Smiles #1 - Bangkok / Yangon"
+title: "Myanmar #1 - Bangkok / Yangon"
 author: luis
 modified:
 excerpt: "The golden land where golden smiles live."
-tags: [memory, life, hapiness]
+tags: [memory, life, hapiness, Myanmar]
 image:
   feature: bus.jpg
 ---

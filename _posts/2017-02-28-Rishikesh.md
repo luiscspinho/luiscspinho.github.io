@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Rishikesh - India"
+title: "Rishikesh #4 - India"
 author: luis
 modified:
 excerpt: "Home of Yoga."
-tags: [memory, life, hapiness]
+tags: [memory, life, hapiness, India]
 image:
   feature: rishikesh.JPG
 ---

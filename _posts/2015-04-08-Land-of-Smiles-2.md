@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Land of Smiles #2 - Inle Lake"
+title: "Myanmar #2 - Inle Lake"
 author: luis
 modified:
 excerpt: "The golden land where golden smiles live."
-tags: [memory, life, hapiness]
+tags: [memory, life, hapiness, Myanmar]
 image:
   feature: inle.JPG
 ---

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Land of Smiles #6 - Bagan, day 3"
+title: "Myanmar #6 - Bagan, day 3"
 author: luis
 modified:
 excerpt: "The golden land where golden smiles live."
-tags: [memory, life, hapiness]
+tags: [memory, life, hapiness, Myanmar]
 image:
   feature: lonely.JPG
 ---

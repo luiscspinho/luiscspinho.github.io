@@ -3,6 +3,32 @@ body {
 	font-family: $base-font;
 	color: $text-color;
 }
+.image {
+	display:inline;
+    position: relative;
+    height: 250px;
+    width: 250px;
+}
+.image:after {
+    content: '\A';
+    position: absolute;
+    width: 98%; 
+    height:100%;
+    top:0; 
+    left:0;
+    background:rgba(0,0,0,0.6);
+    opacity: 0;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    content: attr(data-content);
+    color: #fff;
+    text-align: center;
+}
+
+.image:hover:after {
+    opacity: 1;
+}
+
 .navigation-wrapper {
 	@include container;
 	padding: 2em 0 1em;
@@ -651,7 +677,6 @@ $button-size: 1.5rem;
 		}
 	}
 }
-
 // Browser Upgrade
 // --------------------------------------------------
 .browser-upgrade {

@@ -6,6 +6,9 @@
 - title: All Posts
   url: /posts/
 
+- title: By Country
+  url: /country/
+
 - title: Visited Countries
   url: /visited/
 

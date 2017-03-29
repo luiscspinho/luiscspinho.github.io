@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Land of Smiles #3 - Kalaw"
+title: "Myanmar #3 - Kalaw"
 author: luis
 modified:
 excerpt: "The golden land where golden smiles live."
-tags: [memory, life, hapiness]
+tags: [memory, life, hapiness, Myanmar]
 image:
   feature: kalaw.JPG
 ---
