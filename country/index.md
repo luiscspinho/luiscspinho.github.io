@@ -11,7 +11,7 @@ image:
 	{% if post.tags contains 'India' %}
 		<a href="{{ site.url }}{{ post.url }}">
 			<div class="image" data-content="{{post.title}}">
-				<img src="../images/{{post.image.feature}}" height="250" width="250"/>
+				<img src="../images/{{post.image.feature}}" height="250" width="250" style="margin-bottom: 4px"/>
 			</div>
 		</a>
 	{% endif %}
@@ -25,7 +25,7 @@ image:
 	{% if post.tags contains 'Myanmar' %}
 	<a href="{{ site.url }}{{ post.url }}">
 		<div class="image" data-content="{{post.title}}">
-			<img src="../images/{{post.image.feature}}" height="250" width="250"/>
+			<img src="../images/{{post.image.feature}}" height="250" width="250" style="margin-bottom: 4px"/>
 		</div>
 	</a>
 	{% endif %}

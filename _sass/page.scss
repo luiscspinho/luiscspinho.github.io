@@ -349,6 +349,42 @@ $button-size: 1.5rem;
 	clear: both;
 	font-size: 80%;
 }
+.main-navigation {
+	overflow: hidden;
+	margin-top: 50px;
+}
+.nav-image {
+	width: 100%;
+}
+.nav-text {
+	line-height: 22px;
+}
+.post-nav {
+	position:relative;
+	width: 200px;
+	&.nav-before {
+		float: left;
+		.nav-arrow {
+			float: left;
+			margin-left: -8px;
+		}
+		.nav-text {
+			float: left;
+			margin-left: 5px;
+		}
+	}
+	&.nav-after {
+		float: right;
+		.nav-arrow {
+			float: right;
+			margin-right: -8px;
+		}
+		.nav-text {
+			float: right;
+			margin-right: 5px;
+		}
+	}
+}
 .article-author-side,
 .article-author-bottom {
 	h3 {
