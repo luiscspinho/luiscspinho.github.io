@@ -21,9 +21,11 @@
     {% else %}
       "{{ site.url }}/images/{{ page.image.feature }}"
     {% endif %} -->
-  <img src= "{{ site.url }}/images/{{ site.posts[0].image.feature }}"
-    {{ site.posts[0].image.feature }}
-  alt="{{ page.title }} feature image">
+  <a href="{{ site.url }}{{ site.posts[0].url }}">
+    <img src= "{{ site.url }}/images/{{ site.posts[0].image.feature }}"
+      {{ site.posts[0].image.feature }}
+    alt="{{ page.title }} feature image">
+  </a>
   {% if page.image.credit %}
     <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
   {% endif %}
