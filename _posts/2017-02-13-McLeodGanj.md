@@ -5,6 +5,7 @@ author: luis
 modified:
 excerpt: "The little Tibet in India. This is where all the exiled government of Tibet resides, including the mighty Dalai Lama."
 tags: [memory, life, hapiness, India]
+idPost: 16
 image:
   feature: ganj4.JPG
 ---

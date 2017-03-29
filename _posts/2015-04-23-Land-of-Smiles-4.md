@@ -5,6 +5,7 @@ author: luis
 modified:
 excerpt: "The golden land where golden smiles live."
 tags: [memory, life, hapiness, Myanmar]
+idPost: 9
 image:
   feature: bagan.jpg
 ---

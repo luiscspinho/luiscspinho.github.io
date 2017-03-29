@@ -3,6 +3,7 @@ layout: post
 title: "Passagem de ano, ou a coerção social implicita"
 author: luis
 modified:
+idPost: 2
 excerpt: "Adoro a passagem de ano."
 tags: [sarcasm, reality]
 image:
