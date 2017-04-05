@@ -485,6 +485,9 @@ $button-size: 1.5rem;
 	}
 }
 .article-wrap {
+	.fb-share-button {
+		vertical-align: top;
+	}
 	// Dotted line underlines for links
 	p > a,
 	li > a {
