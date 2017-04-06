@@ -4,7 +4,7 @@ title: "Myanmar #2 - Inle Lake"
 author: luis
 modified:
 excerpt: "The golden land where golden smiles live."
-tags: [memory, life, hapiness, Myanmar]
+tags: [memory, life, hapiness, Myanmar, Inle, Lake, travel, backpaking, budget, asia]
 idPost: 7
 image:
   feature: inle.JPG

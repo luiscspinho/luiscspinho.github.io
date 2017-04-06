@@ -4,7 +4,7 @@ title: "Myanmar #8 - Yangon"
 author: luis
 modified:
 excerpt: "The golden land where golden smiles live."
-tags: [memory, life, hapiness, Myanmar]
+tags: [memory, life, hapiness, Myanmar, Yangon, travel, backpaking, budget, asia]
 idPost: 13
 image:
   feature: end.JPG

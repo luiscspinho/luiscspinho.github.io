@@ -4,7 +4,7 @@ title: "Myanmar #1 - Bangkok / Yangon"
 author: luis
 modified:
 excerpt: "The golden land where golden smiles live."
-tags: [memory, life, hapiness, Myanmar]
+tags: [memory, life, hapiness, Myanmar, Yangon, travel, backpaking, budget, asia]
 idPost: 6
 image:
   feature: bus.jpg

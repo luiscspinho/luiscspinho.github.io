@@ -4,7 +4,7 @@ title: "Myanmar #7 - Mandalay"
 author: luis
 modified:
 excerpt: "The golden land where golden smiles live."
-tags: [memory, life, hapiness, Myanmar]
+tags: [memory, life, hapiness, Myanmar, Mandalay, travel, backpaking, budget, asia]
 idPost: 12
 image:
   feature: castle.JPG
