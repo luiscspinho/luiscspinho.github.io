@@ -15,16 +15,34 @@
 
 {% if page.image.feature %}
   <div class="image-wrap">
-  <img src=
-    {% if page.image.feature contains 'http' %}
-      "{{ page.image.feature }}"
-    {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
+  <div class="nav-img">
+    <!-- {% if page.image.feature contains 'http' %}
+        "{{ page.image.feature }}"
+      {% else %}
+        "{{ site.url }}/images/{{ page.image.feature }}"
+      {% endif %} -->
+    <a href="{{ site.url }}{{ site.posts[0].url }}">
+      <img src=
+          {% if page.image.feature contains 'http' %}
+            "{{ page.image.feature }}"
+          {% else %}
+            "{{ site.url }}/images/{{ page.image.feature }}"
+          {% endif %}
+        alt="{{ page.title }} feature image">
+      <div class="description-place">
+        <div class="post-info">
+          {{ page.title }}
+        </div>
+        <div class="excerpt">
+          {{ page.excerpt }}
+        </div>
+      </div>
+    </a>
+    {% if page.image.credit %}
+      <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
     {% endif %}
-  alt="{{ page.title }} feature image">
-  {% if page.image.credit %}
-    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
-  {% endif %}
+  </div>
+  
   </div><!-- /.image-wrap -->
 {% endif %}
 
