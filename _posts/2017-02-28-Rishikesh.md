@@ -4,7 +4,7 @@ title: "Rishikesh #4 - India"
 author: luis
 modified:
 excerpt: "It is considered the world capital of Yoga. It is known as the pilgrimage town and regarded as one of the holiest places to Hindus."
-tags: [memory, life, hapiness, India, Rishikesh, travel, backpaking, budget, asia]
+tags: [memory, life, hapiness, India, Rishikesh, travel, backpacking, budget, asia]
 idPost: 17
 image:
   feature: rishikesh.JPG

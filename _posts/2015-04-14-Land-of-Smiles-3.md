@@ -4,7 +4,7 @@ title: "Myanmar #3 - Kalaw"
 author: luis
 modified:
 excerpt: "The golden land where golden smiles live."
-tags: [memory, life, hapiness, Myanmar, Kalaw, travel, backpaking, budget, asia]
+tags: [memory, life, hapiness, Myanmar, Kalaw, travel, backpacking, budget, asia]
 idPost: 8
 image:
   feature: kalaw.JPG

@@ -4,7 +4,7 @@ title: "McLeod Ganj #3 - India"
 author: luis
 modified:
 excerpt: "The little Tibet in India. This is where all the exiled government of Tibet resides, including the mighty Dalai Lama."
-tags: [memory, life, hapiness, India, McLeod Ganj, travel, backpaking, budget, asia]
+tags: [memory, life, hapiness, India, McLeod Ganj, travel, backpacking, budget, asia]
 idPost: 16
 image:
   feature: ganj4.JPG

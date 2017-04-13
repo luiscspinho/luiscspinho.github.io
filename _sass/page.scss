@@ -3,8 +3,11 @@ body {
 	font-family: $base-font;
 	color: $text-color;
 }
+highlight {
+	font-size: 25px;
+}
 .image {
-	display:inline;
+	display: inline;
     position: relative;
     height: 250px;
     width: 250px;
@@ -12,7 +15,7 @@ body {
 .image:after {
     content: '\A';
     position: absolute;
-    width: 98%; 
+    width: 250px; 
     height:100%;
     top:0; 
     left:0;

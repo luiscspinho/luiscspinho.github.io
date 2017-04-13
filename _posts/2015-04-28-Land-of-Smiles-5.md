@@ -4,7 +4,7 @@ title: "Myanmar #5 - Bagan, day 2"
 author: luis
 modified:
 excerpt: "The golden land where golden smiles live."
-tags: [memory, life, hapiness, Myanmar, Bagan, travel, backpaking, budget, asia]
+tags: [memory, life, hapiness, Myanmar, Bagan, travel, backpacking, budget, asia]
 idPost: 10
 image:
   feature: photo.jpg
