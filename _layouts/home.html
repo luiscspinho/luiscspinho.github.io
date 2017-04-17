@@ -24,8 +24,9 @@
     <a href="{{ site.url }}{{ site.posts[0].url }}">
       <img src= "{{ site.url }}/images/{{ site.posts[0].image.feature }}"
         {{ site.posts[0].image.feature }}
-      alt="{{ page.title }} feature image">
-      <div class="description-place">
+      alt="{{ page.title }} feature image">      
+    </a>
+    <div class="description-place">
         <div class="post-info">
           {{ site.posts[0].title }}
         </div>
@@ -33,7 +34,6 @@
           {{ site.posts[0].excerpt }}
         </div>
       </div>
-    </a>
     {% if page.image.credit %}
       <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
     {% endif %}
@@ -47,16 +47,16 @@
   </div>
   <div id="index">
     <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
-    {% for post in site.posts limit:5 %}    
-    <article>
-      {% if post.link %}
-        <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
-      {% else %}
-        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-      {% endif %}
-    </article>
-    {% endfor %}
+    <!--If we have a templating with a breaking space and inline-block property, we've to eliminate that spaces-->
+    {% for post in site.posts limit:6 offset:1 %}<article>
+      <div class="article-content">
+        <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
+          <img src="../images/{{ post.image.feature }}" />
+            <h2>{{ post.title }}</h2>
+        </a>
+        <p>{{ post.excerpt | strip_html | truncate: 180 }}</p>
+      </div>
+    </article>{% endfor %}
   </div><!-- /#index -->
 </div><!-- /#main -->
 
