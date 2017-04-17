@@ -274,6 +274,14 @@ $button-size: 1.5rem;
 	@media #{$x-large} {
 		@include grid(10.8,4.5);
 	}
+	section {
+		overflow: hidden;
+		clear: both;
+		margin-top: 20px;		
+		&:first-child {
+			margin-top: 0px;
+		}
+	}
 	h3 {
 		margin: 0;
 		padding-bottom: .5em;
@@ -283,9 +291,21 @@ $button-size: 1.5rem;
 	article {
 		display: block;
 		float: left;
-		height: 50%;
+		height: 320px;
 		width: 50%;
+		margin-bottom: 20px;
 
+		.post-wrapper {
+			padding: 5px;
+		}
+
+		.img-container {
+			height: 170px;
+			width: 100%;
+			background-repeat: no-repeat;
+			background-size: cover;
+			background-position: center;			
+		}
 		.article-content {
 			overflow: hidden;
 			padding: 5px;
@@ -300,7 +320,7 @@ $button-size: 1.5rem;
 		}
 		p {
 			@include font-rem(14);
-			height: 80px;
+			min-height: 80px;
 			margin-top: 15px;
 		}
 		p+p {
