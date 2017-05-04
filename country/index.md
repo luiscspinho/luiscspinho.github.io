@@ -5,6 +5,20 @@ excerpt:
 image:
 ---
 <div id="main" role="main" ><br>
+<img src="../images/flags/itinerary.png"/> <big>Itineraries</big><br><br>
+<div>
+{% for post in site.posts %}
+	{% if post.tags contains 'Itinerary' %}
+		<a href="{{ site.url }}{{ post.url }}">
+			<div class="image" data-content="{{post.title}}">
+				<img src="../images/{{post.image.feature}}" height="250" width="250" style="margin-bottom: 4px"/>
+			</div>
+		</a>
+	{% endif %}
+{% endfor %}
+</div>
+<br><br>
+
 <img src="../images/flags/in.png"/> <big>India</big><br><br>
 <div>
 {% for post in site.posts %}
