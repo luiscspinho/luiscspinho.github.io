@@ -7,7 +7,7 @@ excerpt: "Detailed information about my itinerary, how I traveled and how much I
 tags: [memory, life, hapiness, India, Itinerary, travel, backpacking, budget, asia]
 idPost: 22
 image:
-  feature: indiaitinerary.JPG
+  feature: india_itinerary.JPG
 ---
 
 I spent 1 full month in India between 20th September and 19th October 2016. I travelled as a couple and always slept in Hostels/Trains.
