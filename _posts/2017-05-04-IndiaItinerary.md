@@ -27,6 +27,38 @@ This itinerary is my personal taste and I didn't use any kind of agency to book 
 <li><b><a href="{{site.url}}/Agra" target="_blank">New Delhi / Agra </a></b>(3 days, flight out of the country)</li>
 </ul>
 
+<b><highlight>&emsp;Flight, train and bus...</highlight></b>
+
+<ul>
+	<li>
+	<b>Flight:</b>
+	<ul>
+		<li>
+		I bought my plane tickets in <b><a href="https://www.skyscanner.pt/" target="_blank">SkyScanner</a></b> from Porto to New Delhi and from New Delhi to Hanoi.
+		</li>
+	</ul>
+	</li>
+	<br><li>
+	<b>Train:</b>
+	<ul>
+		<li>I bought my 2AC train tickets in the <b><a href="https://www.irctc.co.in" target="_blank">Indian Railway Catering and Tourism Corporation (IRCTC)</a></b>. If you're not from India you need to send your passport copy by email to them for you to get your account enabled. When you have done that, you should be able to buy tickets with your credit card. Be careful with the train tickets, <b>some of the most famous routes get sold out months in advance.</b></li>
+	</ul>
+	</li>
+	<br><li>
+	<b>Transportation:</b>
+	<ul>
+		<li><b>New Delhi:</b> the metro takes you to the train station where you can get from there to Amritsar on a direct train.</li>
+		<li><b>Amritsar:</b> from the train station to the Golden Temple its about ~2km. You can just walk or take a rikshaw for 30-50 rupees. From there to the bus to Pathankot you need to take a tuk tuk/rickshaw, it should cost between 30-50eupees. From Pathankot you should have a bus to Dharamshala in the same bus station and once you reach Dharamshala just ask someone to point you the bus to MacLeod Ganj on the same station.</li>
+		<li><b>McLeod Ganj:</b> the ticket booth for buses is kinda tricky to find, but it is located in the main square right at the entrance of the village. From there you get a bus to Haridwar. The bus should leave you close enough for you to walk to the train station.</li>
+		<li><b>Rishikesh:</b> from Laxman Jhula take a tuk tuk to the bus station, it should cost between 20-40 rupees (I walked to the station so this price is my personal opinion about it). Take a bus from there to Haridwar where you can get a train to Ajmer. When you get to Ajmer I know that you can take a local bus to the bus station, but I took a shared tuk tuk for 10 rupees. The bus will leave you in walking distance of Pushkar village.</li>
+		<li><b>Pushkar:</b> the bus station is in walking distance, just at the entrance of the village. From there you can take a local bus to Jaipur.</li>
+		<li><b>Jaipur:</b> since the place where I was staying was close to the train station I just walked. From there I took a night train to Varanasi.</li>
+		<li><b>Varanasi:</b> the train station is really far from where most hostels are, so you should take a tuk tuk to there for about 100 rupees.</li>
+		<li><b>New Delhi / Agra:</b> I rented a driver for a full day from New Delhi to Agra and back. I shared with another travellers, it cost us 60€ for all of us.</li>
+	</ul>
+	</li>
+</ul>
+
 <figure>
 	<a href="../images/itinerary/indiaitinerary.JPG"><img src="../images/itinerary/indiaitinerary.JPG"></a>
 	<figcaption>My India Itinerary.</figcaption>
