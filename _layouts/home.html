@@ -25,15 +25,15 @@
       <img src= "{{ site.url }}/images/{{ site.posts[0].image.feature }}"
         {{ site.posts[0].image.feature }}
       alt="{{ page.title }} feature image">      
-    </a>
     <div class="description-place">
-        <div class="post-info">
-          {{ site.posts[0].title }}
-        </div>
-        <div class="excerpt">
-          {{ site.posts[0].excerpt }}
-        </div>
+      <div class="post-info">
+        {{ site.posts[0].title }}
       </div>
+      <div class="excerpt">
+        {{ site.posts[0].excerpt }}
+      </div>
+    </div>
+    </a>
     {% if page.image.credit %}
       <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
     {% endif %}

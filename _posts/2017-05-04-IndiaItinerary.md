@@ -14,7 +14,7 @@ I spent 1 full month in India between 20th September and 19th October 2016. I tr
 
 This itinerary is my personal taste and I didn't use any kind of agency to book anything. I mostly used the internet to search for some logistics regarding transportation and also to book train tickets. I used the India's edition of Lonely Planet but I really can't recommend it because it's very outdated and I'm sure that you're better off with a more recent guide book.
 
-<b><highlight>Itinerary and transportation:</highlight></b>
+<b><highlight><middle>Itinerary and transportation:</middle></highlight></b>
 
 <ul>
 <li><b><a href="{{site.url}}/Delhi" target="_blank">New Delhi </a></b>(3 days, morning train to Amritsar)</li>
@@ -27,7 +27,7 @@ This itinerary is my personal taste and I didn't use any kind of agency to book 
 <li><b><a href="{{site.url}}/Agra" target="_blank">New Delhi / Agra </a></b>(3 days, flight out of the country)</li>
 </ul>
 
-<b><highlight>&emsp;Flight, train and bus...</highlight></b>
+<b><highlight><middle>&emsp;Flight, train and bus...</middle></highlight></b>
 
 <ul>
 	<li>
@@ -64,7 +64,7 @@ This itinerary is my personal taste and I didn't use any kind of agency to book 
 	<figcaption>My India Itinerary.</figcaption>
 </figure>
 
-<b><highlight>&emsp;Costs:</highlight></b>
+<b><highlight><middle>&emsp;Costs:</middle></highlight></b>
 <ul>
 <li><b>~15€ per day, all included.</b></li>
 </ul>
@@ -75,7 +75,7 @@ This itinerary is my personal taste and I didn't use any kind of agency to book 
 <li>Online e-visa on the official <a href="https://indianvisaonline.gov.in/evisa/" target="_blank">Indian visa place</a>. It cost me 60€ for a 1 month visa. (Portuguese citizen)</li>
 </ul>
 
-<b><highlight>&emsp;Highlights:</highlight></b>
+<b><highlight><middle>&emsp;Highlights:</middle></highlight></b>
 <ul>
 <li><b>New Delhi</b>, MadPackers hostel city tour.</li>
 <li><b>Amritsar</b>, walking around the incredible Golden Temple while watching peoples prayers.</li>
