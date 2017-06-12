@@ -2,12 +2,12 @@
 
 title:            Living Luis
 locale:           en_US
-#url:              http://localhost:4000
-url:              http://luiscspinho.github.io
+url:              http://localhost:4000
+#url:              http://luiscspinho.github.io
 #sudo bundle exec jekyll serve
 
 # Jekyll configuration
-
+future: true
 permalink:   /:categories/:title/
 markdown:    kramdown
 #highlighter: pygments
