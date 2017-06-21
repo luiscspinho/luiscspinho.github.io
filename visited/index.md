@@ -119,8 +119,8 @@ rollOverOutlineColor : "#000000"
 
 <h1>Asia</h1>
 <img src="../images/flags/kh.png"/> Cambodia <small>(Phnom Penh, Kep, Kampot, Koh Rong Samloem, Sihanoukville, Battambang, Siem Riep)</small><br>
-<img src="../images/flags/in.png"/> India <small>(New Delhi, Amritsar, McLeod Ganj, Rishikesh, Pushkar, Jaipur, Varanasi)</small><br>
+<img src="../images/flags/in.png"/> India <small>(<a href="{{site.url}}/Delhi" target="_blank">New Delhi</a>, <a href="{{site.url}}/Amritsar" target="_blank">Amritsar</a>, <a href="{{site.url}}/McLeodGanj" target="_blank">McLeod Ganj</a>, <a href="{{site.url}}/Rishikesh" target="_blank">Rishikesh</a>, <a href="{{site.url}}/Pushkar" target="_blank">Pushkar</a>, <a href="{{site.url}}/Jaipur" target="_blank">Jaipur</a>, <a href="{{site.url}}/Varanasi" target="_blank">Varanasi</a>)</small><br>
 <img src="../images/flags/la.png"/> Lao <small>(4000 Islands, Pakse, Vientiane, Vang Vieng, Luang Prabang)</small><br>
-<img src="../images/flags/mm.png"/> Myanmar <small>(Yangon, Inle Lake, Kalaw, Bagan, Mandalay)</small><br>
+<img src="../images/flags/mm.png"/> Myanmar <small>(<a href="{{site.url}}/Land-of-Smiles-1" target="_blank">Yangon</a>, <a href="{{site.url}}/Land-of-Smiles-2" target="_blank">Inle Lake</a>, <a href="{{site.url}}/Land-of-Smiles-3" target="_blank">Kalaw</a>, <a href="{{site.url}}/Land-of-Smiles-4" target="_blank">Bagan</a>, <a href="{{site.url}}/Land-of-Smiles-7" target="_blank">Mandalay</a>)</small><br>
 <img src="../images/flags/th.png"/> Thailand <small>(Bangkok 2x, Koh Samet)</small><br>
-<img src="../images/flags/vn.png"/> Viet Nam <small>(Hanoi, Cat Ba, Tam Coc, Hue, Hoi An, Nha Trang, Dalat, Saigon)</small><br><br>
+<img src="../images/flags/vn.png"/> Viet Nam <small>(<a href="{{site.url}}/Hanoi" target="_blank">Hanói</a>, <a href="{{site.url}}/CatBa" target="_blank">Cát Bà</a>, <a href="{{site.url}}/TamCoc" target="_blank">Tam Coc</a>, <a href="{{site.url}}/Hue" target="_blank">Hué</a>, Hoi An, Nha Trang, Dalat, Saigon)</small><br><br>
