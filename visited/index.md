@@ -139,4 +139,5 @@ rollOverOutlineColor : "#000000"
 <small>(<a href="{{site.url}}/Hanoi" target="_blank">Hanói</a>, 
   <a href="{{site.url}}/CatBa" target="_blank">Cát Bà</a>, 
   <a href="{{site.url}}/TamCoc" target="_blank">Tam Coc</a>, 
-  <a href="{{site.url}}/Hue" target="_blank">Hué</a>, Hoi An, Nha Trang, Dalat, Saigon)</small><br><br>
+  <a href="{{site.url}}/Hue" target="_blank">Hué</a>,
+  <a href="{{site.url}}/HoiAn" target="_blank">Hội An</a>, Nha Trang, Dalat, Saigon)</small><br><br>
