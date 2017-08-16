@@ -118,7 +118,7 @@ rollOverOutlineColor : "#000000"
 <img src="../images/flags/eg.png"/> Egypt <small>(Cairo, Luxor, Aswan)</small><br><br>
 
 <h1>Asia</h1>
-<img src="../images/flags/kh.png"/> Cambodia <small>(Phnom Penh, Kep, Kampot, Koh Rong Samloem, Sihanoukville, Battambang, Siem Riep)</small><br>
+<img src="../images/flags/kh.png"/> Cambodia <small>(<a href="{{site.url}}/PhnomPenh">Phnom Penh</a>, Kep, Kampot, Koh Rong Samloem, Sihanoukville, Battambang, Siem Riep)</small><br>
 <img src="../images/flags/in.png"/> India 
 <small>(<a href="{{site.url}}/Delhi" target="_blank">New Delhi</a>, 
   <a href="{{site.url}}/Amritsar" target="_blank">Amritsar</a>, 
