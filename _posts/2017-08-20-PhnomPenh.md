@@ -77,7 +77,7 @@ In the afternoon people gathered by the river to see the boat races with their p
 
 On my last night in Phnom Penh I had the opportunity to attend a parade of illuminated boats on the river, each one of them equipped with thousands of neons with different patterns representing services, ministries and institutions.
 
-Next day I was off south to <b>Kep</b>. I paid ~7$ for my ticket to get there by <b>Sorya</b> bus company. You can find the ticket booth on the station near the Night Market and the trip should take about 4.5-5 hours.
+Next day I was off south to <b><a href="{{site.url}}/KepKampot" target="_blank">Kep & Kampot</a></b>. I paid ~7$ for my ticket to get there by <b>Sorya</b> bus company. You can find the ticket booth on the station near the Night Market and the trip should take about 4.5-5 hours.
 
 <b><highlight><middle>One last thing about money in Cambodia:</middle></highlight></b>
 
