@@ -131,7 +131,7 @@ In the end, I really enjoyed those days in Kep and Kampot although there is not 
 <ul>
 <li>Sorya bus from <b><a href="{{site.url}}/PhnomPenh" target="_blank">Phnom Penh</a></b> to Kep.</li>
 <li>From Kep to Kampot it is just a 30 min ride. I arranged it from my Guest House.</li>
-<li>From Kampot to Koh Rong Samloem I arranged transportation from my Guest House, which consisted in a mini van to Sihanoukville + speedboat from there to Koh Rong Samloem.</li>
+<li>From Kampot to <b><a href="{{site.url}}/Samloem" target="_blank">Koh Rong Samloem</a></b> I arranged transportation from my Guest House, which consisted in a mini van to Sihanoukville + speedboat from there to <b><a href="{{site.url}}/Samloem" target="_blank">Koh Rong Samloem</a></b>.</li>
 </ul>
 
 <br>
