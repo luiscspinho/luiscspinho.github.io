@@ -123,7 +123,8 @@ rollOverOutlineColor : "#000000"
   <a href="{{site.url}}/KepKampot">Kampot</a>,
   <a href="{{site.url}}/Samloem">Koh Rong Samloem</a>,
   <a href="{{site.url}}/Samloem">Sihanoukville</a>,
-  <a href="{{site.url}}/Battambang">Battambang</a>, Siem Reap)</small><br>
+  <a href="{{site.url}}/Battambang">Battambang</a>,
+  <a href="{{site.url}}/SiemReap">Siem Reap</a>)</small><br>
 <img src="../images/flags/in.png"/> India 
 <small>(<a href="{{site.url}}/Delhi" target="_blank">New Delhi</a>, 
   <a href="{{site.url}}/Amritsar" target="_blank">Amritsar</a>, 
