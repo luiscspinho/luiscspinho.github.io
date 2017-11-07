@@ -19,6 +19,20 @@ image:
 </div>
 <br><br>
 
+<img src="../images/flags/la.png"/> <big>Lao</big><br><br>
+<div>
+{% for post in site.posts %}
+	{% if post.tags contains 'Lao' %}
+		<a href="{{ site.url }}{{ post.url }}">
+			<div class="image" data-content="{{post.title}}">
+				<img src="../images/{{post.image.feature}}" height="250" width="250" style="height:141px;margin-bottom: 4px"/>
+			</div>
+		</a>
+	{% endif %}
+{% endfor %}
+</div>
+<br><br>
+
 <img src="../images/flags/kh.png"/> <big>Cambodia</big><br><br>
 <div>
 {% for post in site.posts %}
