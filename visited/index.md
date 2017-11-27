@@ -133,7 +133,9 @@ rollOverOutlineColor : "#000000"
   <a href="{{site.url}}/Pushkar" target="_blank">Pushkar</a>, 
   <a href="{{site.url}}/Jaipur" target="_blank">Jaipur</a>, 
   <a href="{{site.url}}/Varanasi" target="_blank">Varanasi</a>)</small><br>
-<img src="../images/flags/la.png"/> Lao <small>(<a href="{{site.url}}/4000Islands">4000 Islands</a>, Pakse, Vientiane, Vang Vieng, Luang Prabang</small><br>
+<img src="../images/flags/la.png"/> Lao 
+<small>(<a href="{{site.url}}/4000Islands">4000 Islands</a>, 
+  <a href="{{site.url}}/Pakse" target="_blank">Pakse</a>, Vientiane, Vang Vieng, Luang Prabang</small><br>
 <img src="../images/flags/mm.png"/> Myanmar 
 <small>(<a href="{{site.url}}/Land-of-Smiles-1" target="_blank">Yangon</a>, 
   <a href="{{site.url}}/Land-of-Smiles-2" target="_blank">Inle Lake</a>, 
