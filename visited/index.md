@@ -118,13 +118,13 @@ rollOverOutlineColor : "#000000"
 <img src="../images/flags/eg.png"/> Egypt <small>(Cairo, Luxor, Aswan)</small><br><br>
 
 <h1>Asia</h1>
-<img src="../images/flags/kh.png"/> Cambodia <small>(<a href="{{site.url}}/PhnomPenh">Phnom Penh</a>,
-  <a href="{{site.url}}/KepKampot">Kep</a>, 
-  <a href="{{site.url}}/KepKampot">Kampot</a>,
-  <a href="{{site.url}}/Samloem">Koh Rong Samloem</a>,
-  <a href="{{site.url}}/Samloem">Sihanoukville</a>,
-  <a href="{{site.url}}/Battambang">Battambang</a>,
-  <a href="{{site.url}}/SiemReap">Siem Reap</a>)</small><br>
+<img src="../images/flags/kh.png"/> Cambodia <small>(<a href="{{site.url}}/PhnomPenh" target="_blank">Phnom Penh</a>,
+  <a href="{{site.url}}/KepKampot" target="_blank">Kep</a>, 
+  <a href="{{site.url}}/KepKampot" target="_blank">Kampot</a>,
+  <a href="{{site.url}}/Samloem" target="_blank">Koh Rong Samloem</a>,
+  <a href="{{site.url}}/Samloem" target="_blank">Sihanoukville</a>,
+  <a href="{{site.url}}/Battambang" target="_blank">Battambang</a>,
+  <a href="{{site.url}}/SiemReap" target="_blank">Siem Reap</a>)</small><br>
 <img src="../images/flags/in.png"/> India 
 <small>(<a href="{{site.url}}/Delhi" target="_blank">New Delhi</a>, 
   <a href="{{site.url}}/Amritsar" target="_blank">Amritsar</a>, 
@@ -134,7 +134,7 @@ rollOverOutlineColor : "#000000"
   <a href="{{site.url}}/Jaipur" target="_blank">Jaipur</a>, 
   <a href="{{site.url}}/Varanasi" target="_blank">Varanasi</a>)</small><br>
 <img src="../images/flags/la.png"/> Lao 
-<small>(<a href="{{site.url}}/4000Islands">4000 Islands</a>, 
+<small>(<a href="{{site.url}}/4000Islands" target="_blank">4000 Islands</a>, 
   <a href="{{site.url}}/Pakse" target="_blank">Pakse</a>, Vientiane, Vang Vieng, Luang Prabang</small><br>
 <img src="../images/flags/mm.png"/> Myanmar 
 <small>(<a href="{{site.url}}/Land-of-Smiles-1" target="_blank">Yangon</a>, 
