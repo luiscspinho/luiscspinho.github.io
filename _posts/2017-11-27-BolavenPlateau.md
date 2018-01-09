@@ -32,7 +32,7 @@ You should also bring some warm clothes with you, because despite Lao being a ve
 	<figcaption>The map I got from my Guesthouse was a little bit different, but the essential is the same.</figcaption>
 </figure>
 
-In Pakse I stayed in a place called <b>Nang Noi Guesthouse</b> and I totally recommend them. I stayed 1 night before going to the <b>loop</b>, rented a motorbike in perfect condition (only 8000km), left my backpack in there while in the <b>loop</b>, another night when I finished the <b>loop</b> and my night bus ticket to <b>Vientiane</b>. All of these went smoothly. I recommend you to send an email at least 1 day before getting there because they can be fully booked due to their popularity.
+In Pakse I stayed in a place called <b>Nang Noi Guesthouse</b> and I totally recommend them. I stayed 1 night before going to the <b>loop</b>, rented a motorbike in perfect condition (only 8000km), left my backpack in there while in the <b>loop</b>, another night when I finished the <b>loop</b> and my night bus ticket to <b><a href="{{site.url}}/Vientiane" target="_blank">Vientiane</a></b>. All of these went smoothly. I recommend you to send an email at least 1 day before getting there because they can be fully booked due to their popularity.
 
 <b><highlight><middle>So let's start, shall we?!</middle></highlight></b>
 
@@ -115,7 +115,7 @@ On the third and last day you'll be heading back to <b>Pakse</b>. On your way yo
 
 My next destination was the capital of Lao, Vientiane, but since the journey takes about ~8h, I decided to sleep one more day in <b>Pakse</b> and get a night bus for the next day. I didn't have anything planned for this day so I just rented a motorbike again and went to <b>Champassak</b>, a lovely quiet village ~30km south of <b>Pakse</b>. <b>Wat Phou</b> is the main reason why people go to this village, a Khmer Hindu temple complex. Basically a sample of what you can see in <b><a href="{{site.url}}/SiemReap" target="_blank">Siem Reap</a></b> in Cambodia.
 
-I recommend doing this day trip only if you have some time to spare like I did. It is a calm and relaxing trip. At the end of the day I got a night bus to Vientiane. The bus station is not far from Nang Noi Guesthouse and you can go by foot.
+I recommend doing this day trip only if you have some time to spare like I did. It is a calm and relaxing trip. At the end of the day I got a night bus to <b><a href="{{site.url}}/Vientiane" target="_blank">Vientiane</a></b>. The bus station is not far from Nang Noi Guesthouse and you can go by foot.
 
 <figure>
 	<a href="../images/lao/plateau/plateau15.JPG"><img src="../images/lao/plateau/plateau15.JPG"></a>
