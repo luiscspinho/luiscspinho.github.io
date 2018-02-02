@@ -32,13 +32,13 @@ When coming back to my Guesthouse, I took a quick detour to see the <b>Patuxai M
 	<figcaption>Patuxai, a very poor version of the <i>Arc de Triomphe</i>.</figcaption>
 </figure>
 
-Needless to say that on the very next day in the morning I was off to Vang Vieng. I booked the bus at my Guesthouse reception and everything worked out great, the bus ride takes about ~3-4h and you'll be left at the bus terminal which is at walking distance of the centre.
+Needless to say that on the very next day in the morning I was off to <b><a href="{{site.url}}/VangVieng" target="_blank">Vang Vieng</a></b>. I booked the bus at my Guesthouse reception and everything worked out great, the bus ride takes about ~3-4h and you'll be left at the bus terminal which is at walking distance of the centre.
 
 <br>
 <h1>How to get there and away</h1>
 <ul>
 <li>To get from Pakse from Vientiane just get a nightbus easily booked by the reception of where you're staying.</li>
-<li>Morning bus to Vang Vieng. The trip takes about ~3-4h.</li>
+<li>Morning bus to <b><a href="{{site.url}}/VangVieng" target="_blank">Vang Vieng</a></b>. The trip takes about ~3-4h.</li>
 </ul>
 
 <br>
