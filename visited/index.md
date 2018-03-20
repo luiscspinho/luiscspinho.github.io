@@ -115,7 +115,7 @@ rollOverOutlineColor : "#000000"
 <img src="../images/flags/gb.png"/> United Kingdom <small>(London)</small><br><br>
 
 <h1>Africa</h1>
-<img src="../images/flags/eg.png"/> Egypt <small>(Cairo, Luxor, Aswan)</small><br><br>
+<img src="../images/flags/eg.png"/> Egypt <small>(<a href="{{site.url}}/Cairo" target="_blank">Cairo</a>, Luxor, Aswan)</small><br><br>
 
 <h1>Asia</h1>
 <img src="../images/flags/kh.png"/> Cambodia <small>(<a href="{{site.url}}/PhnomPenh" target="_blank">Phnom Penh</a>,
