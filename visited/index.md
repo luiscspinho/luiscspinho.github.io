@@ -87,6 +87,10 @@ areas :
   {
     "id": "EG",
     "showAsSelected": true
+  },
+  {
+    "id": "IR",
+    "showAsSelected": true
   }
 ]
 },
@@ -112,12 +116,14 @@ rollOverOutlineColor : "#000000"
 <img src="../images/flags/ro.png"/> Romania <small>(Cluj Napoca)</small><br>
 <img src="../images/flags/es.png"/> Spain <small>(Madrid, Santiago, Vigo)</small><br>
 <img src="../images/flags/tr.png"/> Turkey <small>(Istambul, Cappadocia, Olimpos, Kaş, Fethiye, Pamukkale)</small><br>
-<img src="../images/flags/gb.png"/> United Kingdom <small>(London)</small><br><br>
+<img src="../images/flags/gb.png"/> United Kingdom <small>(London)</small><br><br><br>
 
-<h1>Africa</h1>
+<h1>Middle East</h1>
 <img src="../images/flags/eg.png"/> Egypt <small>(<a href="{{site.url}}/Cairo" target="_blank">Cairo</a>,
 <a href="{{site.url}}/Luxor" target="_blank">Luxor</a>,
-<a href="{{site.url}}/Aswan" target="_blank">Aswan</a>)</small><br><br>
+<a href="{{site.url}}/Aswan" target="_blank">Aswan</a>)</small><br>
+<img src="../images/flags/ir.png"/> Iran <small>(Tehran, Shiraz, Yazd, Varzaneh, Esfahan, Kashan, Alamut Valley, Masouleh, Qom)</small><br><br><br>
+
 
 <h1>Asia</h1>
 <img src="../images/flags/kh.png"/> Cambodia <small>(<a href="{{site.url}}/PhnomPenh" target="_blank">Phnom Penh</a>,
