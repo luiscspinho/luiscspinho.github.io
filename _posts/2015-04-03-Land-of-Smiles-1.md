@@ -5,7 +5,7 @@ author: luis
 modified:
 excerpt: "The golden land where golden smiles live."
 tags: [memory, life, hapiness, Myanmar, Yangon, travel, backpacking, budget, asia]
-idPost: 6
+idPost: 3
 image:
   feature: bus.jpg
 ---
@@ -16,7 +16,7 @@ We first arrived at Bangkok Suvarnabhumi airport, after nearly 12 hours by plane
 
 
 <figure>
-	<a href="../images/myanmar/1Bangkok/asok.png"><img src="../images/myanmar/1Bangkok/asok.png"></a>
+	<a href="../images/myanmar/1Bangkok/asok.png"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/1Bangkok/asok.png"></a>
 	<figcaption>The goal was "Asok Pier".</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ When we got there we just had time to let the backpacks at the hostel and head t
 
 
 <figure>
-	<a href="../images/myanmar/1Bangkok/idcard.png"><img src="../images/myanmar/1Bangkok/idcard.png"></a>
+	<a href="../images/myanmar/1Bangkok/idcard.png"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/1Bangkok/idcard.png"></a>
 	<figcaption>The obvious place to have a drink.</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ All this was dismystified when we arrived downtown. Houses degradating, several 
 
 
 <figure>
-	<a href="../images/myanmar/2Yangon/city1.JPG"><img src="../images/myanmar/2Yangon/city1.JPG"></a>
+	<a href="../images/myanmar/2Yangon/city1.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/2Yangon/city1.JPG"></a>
 	<figcaption>Random street in Yangon.</figcaption>
 </figure>
 
@@ -45,27 +45,27 @@ We decided to stay at Yangon for that day and the day after when we would take a
 
 
 <figure>
-	<a href="../images/myanmar/2Yangon/Shwe1.png"><img src="../images/myanmar/2Yangon/Shwe1.png"></a>
+	<a href="../images/myanmar/2Yangon/Shwe1.png"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/2Yangon/Shwe1.png"></a>
 	<figcaption>Monks taking pictures to a soon-to-be monk.</figcaption>
 </figure>
 
 A ceremony is held for all the soon-to-be monks. They're with their family and are held almost as a trophy by their parents. For all we know almost all people go to a monastery somewhere along their lives and that is a great pleasure for the family (for some at least, but we'll get there in another post).
 
 <figure>
-	<a href="../images/myanmar/2Yangon/Shwe2.jpg"><img src="../images/myanmar/2Yangon/Shwe2.jpg"></a>
+	<a href="../images/myanmar/2Yangon/Shwe2.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/2Yangon/Shwe2.jpg"></a>
 	<figcaption>Monk praying to Buddha.</figcaption>
 </figure>
 
 
 <figure>
-	<a href="../images/myanmar/2Yangon/Shwe3.jpg"><img src="../images/myanmar/2Yangon/Shwe3.jpg"></a>
+	<a href="../images/myanmar/2Yangon/Shwe3.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/2Yangon/Shwe3.jpg"></a>
 	<figcaption>Excentric Buddha.</figcaption>
 </figure>
 
 If you search a little bit you'll find many different Buddhas, but in Myanmar they are even more excentric. Almost all of them have neon's behind their heads (the attainment of enlightenment sign), some have blankets (because with 37ºC, who knows...) and some have black/red/golden clothes...
 
 <figure>
-	<a href="../images/myanmar/2Yangon/Shwe4.jpg"><img src="../images/myanmar/2Yangon/Shwe4.jpg"></a>
+	<a href="../images/myanmar/2Yangon/Shwe4.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/2Yangon/Shwe4.jpg"></a>
 	<figcaption>The Shwedagon Pagoda at night.</figcaption>
 </figure>
 
@@ -76,6 +76,6 @@ On the second day we were catching a night bus to Inle Lake so we just wandered 
 When we arrived we only had (once again) a little written paper that had our bus company name so we went on a frenzy rampage of questions to people because nobody could point us to the right direction and we only had about 30 minutes. When we finally got to the bus there were only 10 minutes left, so we hop'd in to our next adventure, Inle Lake.
 
 <figure>
-	<a href="../images/myanmar/2Yangon/bus.jpg"><img src="../images/myanmar/2Yangon/bus.jpg"></a>
+	<a href="../images/myanmar/2Yangon/bus.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/2Yangon/bus.jpg"></a>
 	<figcaption>The information we had to get to the bus.</figcaption>
 </figure>

@@ -5,7 +5,7 @@ author: luis
 modified:
 excerpt: "The second most populous city in Cambodia doesn't have much to offer in terms of sights and activities. I would say it was the least interesting place in Cambodia."
 tags: [Cambodia, travel, backpacking, budget, asia]
-idPost: 34
+idPost: 31
 image:
   feature: battambang.JPG
 ---
@@ -17,7 +17,7 @@ Battambang is the second most populous city in Cambodia. It lacks beaches and do
 I got to Battambang by night bus from <b><a href="{{site.url}}/Samloem" target="_blank">Sihanoukville</a></b> and was left in the TVK Station. This station is located outside the city, ~4km from the city centre. You can either walk to the city centre (I did it and I think it is not a <b>big</b> stretch) or you can try with one of the many tuk-tuk drivers available there. I booked a double room for ~6$ in First Hotel, the cheapest place I stayed in Cambodia.
 
 <figure>
-	<a href="../images/cambodia/battambang/battambang1.JPG"><img src="../images/cambodia/battambang/battambang1.JPG"></a>
+	<a href="../images/cambodia/battambang/battambang1.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/cambodia/battambang/battambang1.JPG"></a>
 	<figcaption>The view over Battambang from First Hotel.</figcaption>
 </figure>
 
@@ -28,12 +28,12 @@ Walk, walk walk...
 You'll come across many temples, cafes, colonial architecture, markets... But that's it folks, really...
 
 <figure>
-	<a href="../images/cambodia/battambang/battambang2.JPG"><img src="../images/cambodia/battambang/battambang2.JPG"></a>
+	<a href="../images/cambodia/battambang/battambang2.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/cambodia/battambang/battambang2.JPG"></a>
 	<figcaption>A ritual passage from the Siddhartha Gautama's life.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/cambodia/battambang/battambang3.JPG"><img src="../images/cambodia/battambang/battambang3.JPG"></a>
+	<a href="../images/cambodia/battambang/battambang3.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/cambodia/battambang/battambang3.JPG"></a>
 	<figcaption>Beautiful temple somewhere in downtown.</figcaption>
 </figure>
 
@@ -42,12 +42,12 @@ I really don't know what the Battambang's buzz is about... I don't really recomm
 Instead, go directly to Siem Reap, the most touristic place in Cambodia, but well worth it. I got my ticket on one of the many bus companies in downtown.
 
 <figure>
-	<a href="../images/cambodia/battambang/battambang5.JPG"><img src="../images/cambodia/battambang/battambang5.JPG"></a>
+	<a href="../images/cambodia/battambang/battambang5.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/cambodia/battambang/battambang5.JPG"></a>
 	<figcaption>A school inside a buddhist temple.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/cambodia/battambang/battambang4.JPG"><img src="../images/cambodia/battambang/battambang4.JPG"></a>
+	<a href="../images/cambodia/battambang/battambang4.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/cambodia/battambang/battambang4.JPG"></a>
 	<figcaption>Empty streets in downtown.</figcaption>
 </figure>
 

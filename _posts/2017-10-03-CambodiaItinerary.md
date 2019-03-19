@@ -5,7 +5,7 @@ author: luis
 modified:
 excerpt: "Detailed information about my itinerary, how I traveled and how much I spent in 2 weeks in Cambodia."
 tags: [memory, life, hapiness, Cambodia, Itinerary, travel, backpacking, budget, asia]
-idPost: 36
+idPost: 33
 image:
   feature: cambodia_itinerary.JPG
 ---
@@ -54,7 +54,7 @@ This itinerary is my personal taste and I didn't use any kind of agency to book 
 </ul>
 
 <figure>
-	<a href="../images/itinerary/cambodiaitinerary.JPG"><img src="../images/itinerary/cambodiaitinerary.JPG"></a>
+	<a href="../images/itinerary/cambodiaitinerary.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/itinerary/cambodiaitinerary.JPG"></a>
 	<figcaption>My Cambodia Itinerary.</figcaption>
 </figure>
 

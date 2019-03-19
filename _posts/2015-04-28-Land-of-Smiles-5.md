@@ -5,7 +5,7 @@ author: luis
 modified:
 excerpt: "The golden land where golden smiles live."
 tags: [memory, life, hapiness, Myanmar, Bagan, travel, backpacking, budget, asia]
-idPost: 10
+idPost: 7
 image:
   feature: photo.jpg
 ---
@@ -20,7 +20,7 @@ The temple was a little <i>off the beaten track</i>, but had a great view and th
 
 
 <figure>
-	<a href="../images/myanmar/5Bagan/sunrise1.jpg"><img src="../images/myanmar/5Bagan/sunrise1.jpg"></a>
+	<a href="../images/myanmar/5Bagan/sunrise1.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/sunrise1.jpg"></a>
 	<figcaption>The view from the temple.</figcaption>
 </figure>
 
@@ -29,17 +29,17 @@ Soon after we settled there, a pair of hot air balloons was rising to the sky ab
 
 
 <figure>
-	<a href="../images/myanmar/5Bagan/sunrise2.jpg"><img src="../images/myanmar/5Bagan/sunrise2.jpg"></a>
+	<a href="../images/myanmar/5Bagan/sunrise2.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/sunrise2.jpg"></a>
 	<figcaption>Hot Air Balloon.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/5Bagan/sunrise3.jpg"><img src="../images/myanmar/5Bagan/sunrise3.jpg"></a>
+	<a href="../images/myanmar/5Bagan/sunrise3.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/sunrise3.jpg"></a>
 	<figcaption>The sun rising from the mist.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/5Bagan/sunrise4.jpg"><img src="../images/myanmar/5Bagan/sunrise4.jpg"></a>
+	<a href="../images/myanmar/5Bagan/sunrise4.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/sunrise4.jpg"></a>
 	<figcaption>Bagan, in all its glory.</figcaption>
 </figure>
 
@@ -52,22 +52,22 @@ The river stop was short, but not short enough to not have people offering us th
 
 
 <figure>
-	<a href="../images/myanmar/5Bagan/river1.jpg"><img src="../images/myanmar/5Bagan/river1.jpg"></a>
+	<a href="../images/myanmar/5Bagan/river1.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/river1.jpg"></a>
 	<figcaption>Ayeyarwady River bay, from Bagan.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/5Bagan/river2.jpg"><img src="../images/myanmar/5Bagan/river2.jpg"></a>
+	<a href="../images/myanmar/5Bagan/river2.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/river2.jpg"></a>
 	<figcaption>The front of the monastery.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/5Bagan/river3.jpg"><img src="../images/myanmar/5Bagan/river3.jpg"></a>
+	<a href="../images/myanmar/5Bagan/river3.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/river3.jpg"></a>
 	<figcaption>Beautiful wood carving detail.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/5Bagan/river4.JPG"><img src="../images/myanmar/5Bagan/river4.JPG"></a>
+	<a href="../images/myanmar/5Bagan/river4.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/river4.JPG"></a>
 	<figcaption>The interior of the monastery.</figcaption>
 </figure>
 
@@ -76,87 +76,87 @@ When we were heading off to our next stop, we noticed two kids playing, looking 
 
 
 <figure>
-	<a href="../images/myanmar/5Bagan/kids1.jpg"><img src="../images/myanmar/5Bagan/kids1.jpg"></a>
+	<a href="../images/myanmar/5Bagan/kids1.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/kids1.jpg"></a>
 	<figcaption>The kids laughing to each other, waiting for us.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/5Bagan/kids2.jpg"><img src="../images/myanmar/5Bagan/kids2.jpg"></a>
+	<a href="../images/myanmar/5Bagan/kids2.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/kids2.jpg"></a>
 	<figcaption>Adorable.</figcaption>
 </figure>
 
 After this short encounter, we went on a rampage with our E-Bike visiting all the temples we could in the zone. As we were on the street heading to a temple there was a nice guy with a motorcycle that approached us as we were riding. We stopped and talked to him for a little while until he promptly offered a visit to a temple with <i>unique</i> Buddhas. He said that we wasn't  any kind of tour guy and just wanted to show us an <i>hidden gem</i> so we followed him without hesitations.
 
 <figure>
-	<a href="../images/myanmar/5Bagan/guy.jpg"><img src="../images/myanmar/5Bagan/guy.jpg"></a>
+	<a href="../images/myanmar/5Bagan/guy.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/guy.jpg"></a>
 	<figcaption>Our new <i>friend</i> leading the way.</figcaption>
 </figure>
 
 The Buddhas we saw inside were unique, because we had never seen anyone dressed in red, but what really struck us was the view that you can get from the top.
 
 <figure>
-	<a href="../images/myanmar/5Bagan/buddha1.jpg"><img src="../images/myanmar/5Bagan/buddha1.jpg"></a>
+	<a href="../images/myanmar/5Bagan/buddha1.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/buddha1.jpg"></a>
 	<figcaption>The red standing Buddha.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/5Bagan/top1.jpg"><img src="../images/myanmar/5Bagan/top1.jpg"></a>
+	<a href="../images/myanmar/5Bagan/top1.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/top1.jpg"></a>
 	<figcaption>The view from the top.</figcaption>
 </figure>
 
 As we were going back to our journey, the guy said that he was an artist and had some of his paintings with him. He really wanted to show us his work and we couldn't say no to such a nice guy. He had some <b>amazing</b> paintings and we couldn't help to buy one of them.
 
 <figure>
-	<a href="../images/myanmar/5Bagan/photo.jpg"><img src="../images/myanmar/5Bagan/photo.jpg"></a>
+	<a href="../images/myanmar/5Bagan/photo.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/photo.jpg"></a>
 	<figcaption>The paiting we bought.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/5Bagan/guy1.jpg"><img src="../images/myanmar/5Bagan/guy1.jpg"></a>
+	<a href="../images/myanmar/5Bagan/guy1.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/guy1.jpg"></a>
 	<figcaption>The painter with my sunglasses, kinda spooky.</figcaption>
 </figure>
 
 If you're thinking that our morning was already busy, it doesn't stop here. We went back to the most famous temple in Bagan (<i>That Byin Nyu Temple</i>) to see the big sleeping Buddha with more light. Now there was a group of kids with two adult Monks exploring the area that initially approached me. "<i>Where you come from? Can I take a photo with you and the kids?</i>" The result was my favourite picture of the whole trip!
 
 <figure>
-	<a href="../images/myanmar/5Bagan/love.jpg"><img src="../images/myanmar/5Bagan/love.jpg"></a>
+	<a href="../images/myanmar/5Bagan/love.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/love.jpg"></a>
 	<figcaption>Lovely.</figcaption>
 </figure>
 
 The rest of our day was spent visiting all the temples we could. One thing we saw, like in Kalaw, was that there was a <b>lot</b> of religious tourism within the country. People are always on buses moving from place to place to give their prayers to Buddha. Of course that this also brought a lot of interesting moments between them and us, because these were the people more curious about us.
 
 <figure>
-	<a href="../images/myanmar/5Bagan/various1.jpg"><img src="../images/myanmar/5Bagan/various1.jpg"></a>
+	<a href="../images/myanmar/5Bagan/various1.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/various1.jpg"></a>
 	<figcaption>The older lady said that she didn't want me with the girls on the photo. She even made a disgusted face when pushin me away. She was kidding, of course.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/5Bagan/various2.jpg"><img src="../images/myanmar/5Bagan/various2.jpg"></a>
+	<a href="../images/myanmar/5Bagan/various2.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/various2.jpg"></a>
 	<figcaption>He was the younger Monk we saw in Myanmar, so adorable.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/5Bagan/various3.jpg"><img src="../images/myanmar/5Bagan/various3.jpg"></a>
+	<a href="../images/myanmar/5Bagan/various3.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/various3.jpg"></a>
 	<figcaption>Offerings to Buddha.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/5Bagan/various4.jpg"><img src="../images/myanmar/5Bagan/various4.jpg"></a>
+	<a href="../images/myanmar/5Bagan/various4.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/various4.jpg"></a>
 	<figcaption>Another great view from the top of a temple.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/5Bagan/various5.jpg"><img src="../images/myanmar/5Bagan/various5.jpg"></a>
+	<a href="../images/myanmar/5Bagan/various5.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/various5.jpg"></a>
 	<figcaption>A unique Buddha dressed in black.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/5Bagan/various6.jpg"><img src="../images/myanmar/5Bagan/various6.jpg"></a>
+	<a href="../images/myanmar/5Bagan/various6.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/various6.jpg"></a>
 	<figcaption>Just another crazy sight.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/5Bagan/various7.jpg"><img src="../images/myanmar/5Bagan/various7.jpg"></a>
+	<a href="../images/myanmar/5Bagan/various7.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/various7.jpg"></a>
 	<figcaption>If you know the Lonely Planet cover from this year, you'll recognise this majestic temple.</figcaption>
 </figure>
 
@@ -165,7 +165,7 @@ The day was almost over, we were tired, and we decided to watch another sunset. 
 The problem was that once again the sky was too cloudy and the sun was hidden from us.
 
 <figure>
-	<a href="../images/myanmar/5Bagan/sunset21.jpg"><img src="../images/myanmar/5Bagan/sunset21.jpg"></a>
+	<a href="../images/myanmar/5Bagan/sunset21.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/sunset21.jpg"></a>
 	<figcaption>The almost sunset.</figcaption>
 </figure>
 
@@ -174,7 +174,7 @@ After one more failed sunset, as we were heading off to the guest house, we noti
 At some point the leader announced that he was going to play a classic <i>Thingyan</i> song and they went crazy. They girls immediately stood up and started to do their weird dance (you should really check this out, it's very strange and unique) with some of them filming their acting. They also offered food to us!
 
 <figure>
-	<a href="../images/myanmar/5Bagan/dance1.jpg"><img src="../images/myanmar/5Bagan/dance1.jpg"></a>
+	<a href="../images/myanmar/5Bagan/dance1.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/dance1.jpg"></a>
 	<figcaption>People rocking.</figcaption>
 </figure>
 

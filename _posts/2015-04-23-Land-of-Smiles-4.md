@@ -5,7 +5,7 @@ author: luis
 modified:
 excerpt: "The golden land where golden smiles live."
 tags: [memory, life, hapiness, Myanmar, Bagan, travel, backpacking, budget, asia]
-idPost: 9
+idPost: 6
 image:
   feature: bagan.jpg
 ---
@@ -26,12 +26,12 @@ We ended up sleeping for a while and half day was already over. We had read that
 
 
 <figure>
-	<a href="../images/myanmar/5Bagan/spoon1.JPG"><img src="../images/myanmar/5Bagan/spoon1.JPG"></a>
+	<a href="../images/myanmar/5Bagan/spoon1.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/spoon1.JPG"></a>
 	<figcaption>The Weather Spoon restaurant.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/5Bagan/spoon2.jpg"><img src="../images/myanmar/5Bagan/spoon2.jpg"></a>
+	<a href="../images/myanmar/5Bagan/spoon2.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/spoon2.jpg"></a>
 	<figcaption>The delicious meal!</figcaption>
 </figure>
 
@@ -40,13 +40,13 @@ We still had some time until the sunset, which we were planning to see on top of
 
 
 <figure>
-	<a href="../images/myanmar/5Bagan/shwe1.jpg"><img src="../images/myanmar/5Bagan/shwe1.jpg"></a>
+	<a href="../images/myanmar/5Bagan/shwe1.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/shwe1.jpg"></a>
 	<figcaption>Shwe Zi Gon Pagoda.</figcaption>
 </figure>
 
 
 <figure>
-	<a href="../images/myanmar/5Bagan/shwe2.jpg"><img src="../images/myanmar/5Bagan/shwe2.jpg"></a>
+	<a href="../images/myanmar/5Bagan/shwe2.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/shwe2.jpg"></a>
 	<figcaption>I don't know the story behind this statue, but it sure makes an impact on you.</figcaption>
 </figure>
 
@@ -61,12 +61,12 @@ The sunset came fast, but it wasn't what we were really expecting. The sky was c
 
 
 <figure>
-	<a href="../images/myanmar/5Bagan/sunset2.jpg"><img src="../images/myanmar/5Bagan/sunset2.jpg"></a>
+	<a href="../images/myanmar/5Bagan/sunset2.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/sunset2.jpg"></a>
 	<figcaption>People, from above.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/5Bagan/sunset1.jpg"><img src="../images/myanmar/5Bagan/sunset1.jpg"></a>
+	<a href="../images/myanmar/5Bagan/sunset1.jpg"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/sunset1.jpg"></a>
 	<figcaption>The beautiful view we had for the sunset.</figcaption>
 </figure>
 

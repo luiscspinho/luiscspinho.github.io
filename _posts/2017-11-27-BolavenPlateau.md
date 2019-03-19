@@ -5,7 +5,7 @@ author: luis
 modified:
 excerpt: "The Bolaven Plateau is one of the highlights of any trip to Lao. Numerous waterfalls, coffee plantations and an adventure that you'll never forget."
 tags: [Lao, travel, backpacking, budget, asia]
-idPost: 38
+idPost: 35
 image:
   feature: plateau.JPG
 ---
@@ -18,7 +18,7 @@ After some days of relaxation in the <b><a href="{{site.url}}/4000Islands" targe
 
 
 <figure>
-	<a href="../images/lao/plateau/plateau1.JPG"><img src="../images/lao/plateau/plateau1.JPG"></a>
+	<a href="../images/lao/plateau/plateau1.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/plateau/plateau1.JPG"></a>
 	<figcaption>The map that everybody uses for the Bolaven Plateau (Miss Noy).</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ It is important to take some considerations before doing this trip. First, be ca
 You should also bring some warm clothes with you, because despite Lao being a very warm country, the Plateau becomes very cool at night. This is the reason, along with volcanic soil, why the coffee beans of Lao are known across the globe. Also, you should have a rough idea of where you'll be sleeping each night. There are a lot of places along the way where you can stop, but I chose to stay in <b>Tad Lo</b> (<b>Fandee Guesthouse</b>) 1 night and the other one near <b>Tad Alone / Tad Couple</b> waterfalls. I was supposed to stay in <b>Tad Saulin Homestay</b>, but they were asking for 15$ each person in a tent, so I said <i>'no'</i> and went further to find a much better place for ~10$ a double bed room.
 
 <figure>
-	<a href="../images/lao/plateau/plateau2.JPG"><img src="../images/lao/plateau/plateau2.JPG"></a>
+	<a href="../images/lao/plateau/plateau2.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/plateau/plateau2.JPG"></a>
 	<figcaption>The map I got from my Guesthouse was a little bit different, but the essential is the same.</figcaption>
 </figure>
 
@@ -42,17 +42,17 @@ There is one stop at km-35 to see <b>Tad Pasaum</b> waterfall, 1.20$ admission f
 I slept that night in <b>Fandee Guesthouse</b>, a place owned by 2 expats living in Lao for many years now. They have very few bungalows available so you really should get there early if you want to stay there. A really positive thing about the place is that they have a kitchen available where you can order your meals, the food is very good and we even saw some people from other places coming there for dinner.
 
 <figure>
-	<a href="../images/lao/plateau/plateau3.JPG"><img src="../images/lao/plateau/plateau3.JPG"></a>
+	<a href="../images/lao/plateau/plateau3.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/plateau/plateau3.JPG"></a>
 	<figcaption>A nice path to get to our first waterfall, Tad Pasaum.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/plateau/plateau5.JPG"><img src="../images/lao/plateau/plateau5.JPG"></a>
+	<a href="../images/lao/plateau/plateau5.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/plateau/plateau5.JPG"></a>
 	<figcaption>Tad Pasaum waterfall was not memorable.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/plateau/plateau4.JPG"><img src="../images/lao/plateau/plateau4.JPG"></a>
+	<a href="../images/lao/plateau/plateau4.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/plateau/plateau4.JPG"></a>
 	<figcaption>A new friend in Tad Lo.</figcaption>
 </figure>
 
@@ -63,37 +63,37 @@ The second day was the longest one. There are a lot of waterfalls along the way 
 On the way you'll see tons of coffee plantations, along with rural villages where people live in very basic houses. The scenery of these villages by the road with the mountains on their back and with coffee plantations by their side is quite something and you should take your time to appreciate it.
 
 <figure>
-	<a href="../images/lao/plateau/plateau6.JPG"><img src="../images/lao/plateau/plateau6.JPG"></a>
+	<a href="../images/lao/plateau/plateau6.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/plateau/plateau6.JPG"></a>
 	<figcaption>Laotians on their daily life.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/plateau/plateau7.JPG"><img src="../images/lao/plateau/plateau7.JPG"></a>
+	<a href="../images/lao/plateau/plateau7.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/plateau/plateau7.JPG"></a>
 	<figcaption>A very curious and beautiful kid leaving school.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/plateau/plateau8.JPG"><img src="../images/lao/plateau/plateau8.JPG"></a>
+	<a href="../images/lao/plateau/plateau8.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/plateau/plateau8.JPG"></a>
 	<figcaption>Kids playing with whatever is available.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/plateau/plateau9.JPG"><img src="../images/lao/plateau/plateau9.JPG"></a>
+	<a href="../images/lao/plateau/plateau9.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/plateau/plateau9.JPG"></a>
 	<figcaption>Tad Faek.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/plateau/plateau10.JPG"><img src="../images/lao/plateau/plateau10.JPG"></a>
+	<a href="../images/lao/plateau/plateau10.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/plateau/plateau10.JPG"></a>
 	<figcaption>The bicycle is probably the most used transportation in Lao.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/plateau/plateau11.JPG"><img src="../images/lao/plateau/plateau11.JPG"></a>
+	<a href="../images/lao/plateau/plateau11.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/plateau/plateau11.JPG"></a>
 	<figcaption>Not all kids will welcome you like this bunch.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/plateau/plateau12.JPG"><img src="../images/lao/plateau/plateau12.JPG"></a>
+	<a href="../images/lao/plateau/plateau12.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/plateau/plateau12.JPG"></a>
 	<figcaption>Tad Katamtok.</figcaption>
 </figure>
 
@@ -104,12 +104,12 @@ In case you decide to go further, look for a place called <b>Millenium Hotel</b>
 On the third and last day you'll be heading back to <b>Pakse</b>. On your way you can stop in Paksong (I didn't) and you'll have more waterfalls to see. Chances are that by now you must be sick and tired of waterfalls like me, and if that's the case, just enjoy your last day on the Plateau, because once you're back to <b>Pakse</b> there's nothing more to see.
 
 <figure>
-	<a href="../images/lao/plateau/plateau13.JPG"><img src="../images/lao/plateau/plateau13.JPG"></a>
+	<a href="../images/lao/plateau/plateau13.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/plateau/plateau13.JPG"></a>
 	<figcaption>Tad Champi.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/plateau/plateau14.JPG"><img src="../images/lao/plateau/plateau14.JPG"></a>
+	<a href="../images/lao/plateau/plateau14.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/plateau/plateau14.JPG"></a>
 	<figcaption>Tad Fane. Maybe the most impressive of all.</figcaption>
 </figure>
 
@@ -118,12 +118,12 @@ My next destination was the capital of Lao, Vientiane, but since the journey tak
 I recommend doing this day trip only if you have some time to spare like I did. It is a calm and relaxing trip. At the end of the day I got a night bus to <b><a href="{{site.url}}/Vientiane" target="_blank">Vientiane</a></b>. The bus station is not far from Nang Noi Guesthouse and you can go by foot.
 
 <figure>
-	<a href="../images/lao/plateau/plateau15.JPG"><img src="../images/lao/plateau/plateau15.JPG"></a>
+	<a href="../images/lao/plateau/plateau15.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/plateau/plateau15.JPG"></a>
 	<figcaption>I stopped in Phu Salao on my way to Champassak to get a nice view over Pakse.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/plateau/plateau16.JPG"><img src="../images/lao/plateau/plateau16.JPG"></a>
+	<a href="../images/lao/plateau/plateau16.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/plateau/plateau16.JPG"></a>
 	<figcaption>A church in Champassak! A rare sight in this country.</figcaption>
 </figure>
 

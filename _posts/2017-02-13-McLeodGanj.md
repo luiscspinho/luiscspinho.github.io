@@ -5,7 +5,7 @@ author: luis
 modified:
 excerpt: "The little Tibet in India. This is where all the exiled government of Tibet resides, including the mighty Dalai Lama."
 tags: [memory, life, hapiness, India, McLeod Ganj, travel, backpacking, budget, asia]
-idPost: 16
+idPost: 13
 image:
   feature: ganj4.JPG
 ---
@@ -18,19 +18,19 @@ First thing we did when leaving the Golden Temple was to find a rickshaw to get 
 
 
 <figure>
-	<a href="../images/india/McLeod/bus1.JPG"><img src="../images/india/McLeod/bus1.JPG"></a>
+	<a href="../images/india/McLeod/bus1.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/india/McLeod/bus1.JPG"></a>
 	<figcaption>One of the buses on our way to McLeod Ganj.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/india/McLeod/bus2.JPG"><img src="../images/india/McLeod/bus2.JPG"></a>
+	<a href="../images/india/McLeod/bus2.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/india/McLeod/bus2.JPG"></a>
 	<figcaption>Let's just say that 4 hours on this buses it's not the most confortable thing in the world.</figcaption>
 </figure>
 
 When we finally arrived in McLeod Ganj, as usual, our first thought was to get to the place where we were going to sleep. We stayed in a place called <b>Tibet World</b>, an NGO ran by and for the Tibetan people. There are daily English lessons, talks, shows, etc. for anyone that wants to attend, being the majority Tibetan Monks. It's a cool place, but be sure to get a room with mountain view, because the first we got before asking to change had a lot of humidity and <i>"windows"</i> with an amazing view of a wall.
 
 <figure>
-	<a href="../images/india/McLeod/ganj3.JPG"><img src="../images/india/McLeod/ganj3.JPG"></a>
+	<a href="../images/india/McLeod/ganj3.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/india/McLeod/ganj3.JPG"></a>
 	<figcaption>The village of McLeod Ganj.</figcaption>
 </figure>
 
@@ -39,12 +39,12 @@ The best thing you can do in McLeod Ganj is to chill out and enjoy the amazing v
 Another thing that you can't miss there is the museum in the temple complex. It is free and they do daily talks for a small compensation. When we visited it had a chronological photo exhibition about the country of Tibet from their independence days until now with China invasion. It was <b>really</b> interesting as well as the talk. I can really recommend this experience, it was really inspiring and informative.
 
 <figure>
-	<a href="../images/india/McLeod/ganj1.JPG"><img src="../images/india/McLeod/ganj1.JPG"></a>
+	<a href="../images/india/McLeod/ganj1.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/india/McLeod/ganj1.JPG"></a>
 	<figcaption>Prayers in the Dalai Lamas' temple.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/india/McLeod/ganj2.JPG"><img src="../images/india/McLeod/ganj2.JPG"></a>
+	<a href="../images/india/McLeod/ganj2.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/india/McLeod/ganj2.JPG"></a>
 	<figcaption>Raising awareness.</figcaption>
 </figure>
 
@@ -53,11 +53,11 @@ We stayed for 5 days but I think that 3/4 is enough so get the feeling of the vi
 Our next destination was Rishikesh so we needed to get a bus from McLeod Ganj to Pathankot and then catch the night train from there to Rishikesh. The bus tickets can be bought in the main square in McLeod Ganj and the <i>bus station</i> is walkable distance from there.
 
 <figure>
-	<a href="../images/india/McLeod/ganj5.JPG"><img src="../images/india/McLeod/ganj5.JPG"></a>
+	<a href="../images/india/McLeod/ganj5.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/india/McLeod/ganj5.JPG"></a>
 	<figcaption>Our bus out of McLeod Ganj.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/india/McLeod/ganj6.JPG"><img src="../images/india/McLeod/ganj6.JPG"></a>
+	<a href="../images/india/McLeod/ganj6.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/india/McLeod/ganj6.JPG"></a>
 	<figcaption>The inside was also not flattering.</figcaption>
 </figure>

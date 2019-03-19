@@ -5,7 +5,7 @@ author: luis
 modified:
 excerpt: "The golden land where golden smiles live."
 tags: [memory, life, hapiness, Myanmar, Kalaw, travel, backpacking, budget, asia]
-idPost: 8
+idPost: 5
 image:
   feature: kalaw.JPG
 ---
@@ -14,12 +14,12 @@ When we arrived at the Nyaung Shwe train station, we urged to the ticket booth t
 
 
 <figure>
-	<a href="../images/myanmar/4Kalaw/trainstation.JPG"><img src="../images/myanmar/4Kalaw/trainstation.JPG"></a>
+	<a href="../images/myanmar/4Kalaw/trainstation.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/4Kalaw/trainstation.JPG"></a>
 	<figcaption>The train station.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/4Kalaw/tickets.JPG"><img src="../images/myanmar/4Kalaw/tickets.JPG"></a>
+	<a href="../images/myanmar/4Kalaw/tickets.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/4Kalaw/tickets.JPG"></a>
 	<figcaption>The train tickets.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ There was a young couple in the seats in front of us with a child that seemed ve
 
 
 <figure>
-	<a href="../images/myanmar/4Kalaw/train1.JPG"><img src="../images/myanmar/4Kalaw/train1.JPG"></a>
+	<a href="../images/myanmar/4Kalaw/train1.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/4Kalaw/train1.JPG"></a>
 	<figcaption>Little girl.</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ After this first moment the old man did, what we would find usual throughout our
 
 
 <figure>
-	<a href="../images/myanmar/4Kalaw/train2.JPG"><img src="../images/myanmar/4Kalaw/train2.JPG"></a>
+	<a href="../images/myanmar/4Kalaw/train2.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/4Kalaw/train2.JPG"></a>
 	<figcaption>The old man with a piece of me.</figcaption>
 </figure>
 
@@ -50,13 +50,13 @@ The journey continued with the old man socialising with us, trying his best Engl
 
 
 <figure>
-	<a href="../images/myanmar/4Kalaw/train3.JPG"><img src="../images/myanmar/4Kalaw/train3.JPG"></a>
+	<a href="../images/myanmar/4Kalaw/train3.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/4Kalaw/train3.JPG"></a>
 	<figcaption>Some fields along the road.</figcaption>
 </figure>
 
 
 <figure>
-	<a href="../images/myanmar/4Kalaw/train4.JPG"><img src="../images/myanmar/4Kalaw/train4.JPG"></a>
+	<a href="../images/myanmar/4Kalaw/train4.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/4Kalaw/train4.JPG"></a>
 	<figcaption>People seemed overwhelmed about a camera.</figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ Both of them couldn't speak a word of English, so our interactions were mainly s
 
 
 <figure>
-	<a href="../images/myanmar/4Kalaw/train5.JPG"><img src="../images/myanmar/4Kalaw/train5.JPG"></a>
+	<a href="../images/myanmar/4Kalaw/train5.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/4Kalaw/train5.JPG"></a>
 	<figcaption>The beautiful young girls.</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ We finally reach Kalaw and with great sadness we say goodbye to almost all the p
 
 
 <figure>
-	<a href="../images/myanmar/4Kalaw/train6.JPG"><img src="../images/myanmar/4Kalaw/train6.JPG"></a>
+	<a href="../images/myanmar/4Kalaw/train6.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/4Kalaw/train6.JPG"></a>
 	<figcaption>Kalaw train station.</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Kalaw is really a small village, you shouldn't plan to stay there more than one 
 
 
 <figure>
-	<a href="../images/myanmar/4Kalaw/kalaw1.JPG"><img src="../images/myanmar/4Kalaw/kalaw1.JPG"></a>
+	<a href="../images/myanmar/4Kalaw/kalaw1.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/4Kalaw/kalaw1.JPG"></a>
 	<figcaption>Kalaw view from the monastery.</figcaption>
 </figure>
 
@@ -94,13 +94,13 @@ Another thing that we noticed is that there were a lot of local people that were
 
 
 <figure>
-	<a href="../images/myanmar/4Kalaw/kalaw2.JPG"><img src="../images/myanmar/4Kalaw/kalaw2.JPG"></a>
+	<a href="../images/myanmar/4Kalaw/kalaw2.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/4Kalaw/kalaw2.JPG"></a>
 	<figcaption>Some unusual Buddhas.</figcaption>
 </figure>
 
 
 <figure>
-	<a href="../images/myanmar/4Kalaw/kalaw3.JPG"><img src="../images/myanmar/4Kalaw/kalaw3.JPG"></a>
+	<a href="../images/myanmar/4Kalaw/kalaw3.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/4Kalaw/kalaw3.JPG"></a>
 	<figcaption>Inside the caves.</figcaption>
 </figure>
 
@@ -109,7 +109,7 @@ As we were leaving the Pagoda to continue our journey, we were once again approa
 
 
 <figure>
-	<a href="../images/myanmar/4Kalaw/kalaw4.JPG"><img src="../images/myanmar/4Kalaw/kalaw4.JPG"></a>
+	<a href="../images/myanmar/4Kalaw/kalaw4.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/4Kalaw/kalaw4.JPG"></a>
 	<figcaption>The two shy but courageous sisters.</figcaption>
 </figure>
 
@@ -118,12 +118,12 @@ We followed our path now with the goal to visit and ancient wooden Buddha that w
 
 
 <figure>
-	<a href="../images/myanmar/4Kalaw/kalaw5.JPG"><img src="../images/myanmar/4Kalaw/kalaw5.JPG"></a>
+	<a href="../images/myanmar/4Kalaw/kalaw5.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/4Kalaw/kalaw5.JPG"></a>
 	<figcaption>Monks ritual #1.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/4Kalaw/kalaw6.JPG"><img src="../images/myanmar/4Kalaw/kalaw6.JPG"></a>
+	<a href="../images/myanmar/4Kalaw/kalaw6.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/4Kalaw/kalaw6.JPG"></a>
 	<figcaption>Monks ritual #2.</figcaption>
 </figure>
 
@@ -132,6 +132,6 @@ We reached the ancient wooden Buddha ahead of schedule, and had some time to kil
 
 
 <figure>
-	<a href="../images/myanmar/4Kalaw/kalaw7.JPG"><img src="../images/myanmar/4Kalaw/kalaw7.JPG"></a>
+	<a href="../images/myanmar/4Kalaw/kalaw7.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/4Kalaw/kalaw7.JPG"></a>
 	<figcaption>Ancient wooden Buddha.</figcaption>
 </figure>

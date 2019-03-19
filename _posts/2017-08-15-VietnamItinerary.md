@@ -5,7 +5,7 @@ author: luis
 modified:
 excerpt: "Detailed information about my itinerary, how I traveled and how much I spent in 3 weeks in Vietnam."
 tags: [memory, life, hapiness, Vietnam, Itinerary, travel, backpacking, budget, asia]
-idPost: 30
+idPost: 27
 image:
   feature: vietnam_itinerary.JPG
 ---
@@ -58,7 +58,7 @@ This itinerary is my personal taste and I didn't use any kind of agency to book 
 </ul>
 
 <figure>
-	<a href="../images/itinerary/vietnamitinerary.JPG"><img src="../images/itinerary/vietnamitinerary.JPG"></a>
+	<a href="../images/itinerary/vietnamitinerary.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/itinerary/vietnamitinerary.JPG"></a>
 	<figcaption>My Vietnam Itinerary.</figcaption>
 </figure>
 

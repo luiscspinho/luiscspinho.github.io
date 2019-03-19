@@ -5,7 +5,7 @@ author: luis
 modified:
 excerpt: "The golden land where golden smiles live."
 tags: [memory, life, hapiness, Myanmar, Bagan, travel, backpacking, budget, asia]
-idPost: 11
+idPost: 8
 image:
   feature: lonely.JPG
 ---
@@ -18,7 +18,7 @@ Our first stop was at a local market that had all kinds of daily products for pe
 
 
 <figure>
-	<a href="../images/myanmar/5Bagan/market.JPG"><img src="../images/myanmar/5Bagan/market.JPG"></a>
+	<a href="../images/myanmar/5Bagan/market.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/market.JPG"></a>
 	<figcaption>Local market.</figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ After this quick stop, we headed right away to the Tharabar Gate, but we lost ou
 
 
 <figure>
-	<a href="../images/myanmar/5Bagan/tharabar.JPG"><img src="../images/myanmar/5Bagan/tharabar.JPG"></a>
+	<a href="../images/myanmar/5Bagan/tharabar.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/tharabar.JPG"></a>
 	<figcaption>Little monks heading back to the temple.</figcaption>
 </figure>
 
@@ -36,13 +36,13 @@ The trip to Mt. Poppa went smoothly, but we had to have one <i>little</i> stop o
 
 
 <figure>
-	<a href="../images/myanmar/5Bagan/girlmonk.JPG"><img src="../images/myanmar/5Bagan/girlmonk.JPG"></a>
+	<a href="../images/myanmar/5Bagan/girlmonk.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/girlmonk.JPG"></a>
 	<figcaption>A group of monk women on their daily routine.</figcaption>
 </figure>
 
 
 <figure>
-	<a href="../images/myanmar/5Bagan/kidworking.JPG"><img src="../images/myanmar/5Bagan/kidworking.JPG"></a>
+	<a href="../images/myanmar/5Bagan/kidworking.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/kidworking.JPG"></a>
 	<figcaption>A little kid working where we stopped.</figcaption>
 </figure>
 
@@ -53,13 +53,13 @@ We immediately started our climbing through the 777 stairs, which had workers cl
 
 
 <figure>
-	<a href="../images/myanmar/5Bagan/mtpoppa.JPG"><img src="../images/myanmar/5Bagan/mtpoppa.JPG"></a>
+	<a href="../images/myanmar/5Bagan/mtpoppa.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/mtpoppa.JPG"></a>
 	<figcaption>Our first sight of Mt. Poppa.</figcaption>
 </figure>
 
 
 <figure>
-	<a href="../images/myanmar/5Bagan/buddhanat.JPG"><img src="../images/myanmar/5Bagan/buddhanat.JPG"></a>
+	<a href="../images/myanmar/5Bagan/buddhanat.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/buddhanat.JPG"></a>
 	<figcaption>Some Buddhas along NATs.</figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ As soon as we started climbing there was a very kind young monk that was also vi
 
 
 <figure>
-	<a href="../images/myanmar/5Bagan/memonk.JPG"><img src="../images/myanmar/5Bagan/memonk.JPG"></a>
+	<a href="../images/myanmar/5Bagan/memonk.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/memonk.JPG"></a>
 	<figcaption>Here he is in the middle.</figcaption>
 </figure>
 
@@ -77,13 +77,13 @@ The worship to NATs is quite different from the Buddhist one. People still offer
 
 
 <figure>
-	<a href="../images/myanmar/5Bagan/offernat.JPG"><img src="../images/myanmar/5Bagan/offernat.JPG"></a>
+	<a href="../images/myanmar/5Bagan/offernat.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/offernat.JPG"></a>
 	<figcaption>Some people worshipping the NATs.</figcaption>
 </figure>
 
 
 <figure>
-	<a href="../images/myanmar/5Bagan/natmoney.JPG"><img src="../images/myanmar/5Bagan/natmoney.JPG"></a>
+	<a href="../images/myanmar/5Bagan/natmoney.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/natmoney.JPG"></a>
 	<figcaption>A NAT proudly showing some money.</figcaption>
 </figure>
 
@@ -97,17 +97,17 @@ Once again, we decided to make our afternoon a new journey through the temples t
 
 
 <figure>
-	<a href="../images/myanmar/5Bagan/paint1.JPG"><img src="../images/myanmar/5Bagan/paint1.JPG"></a>
+	<a href="../images/myanmar/5Bagan/paint1.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/paint1.JPG"></a>
 	<figcaption>Ancient Buddha painting #1.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/5Bagan/paint2.JPG"><img src="../images/myanmar/5Bagan/paint2.JPG"></a>
+	<a href="../images/myanmar/5Bagan/paint2.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/paint2.JPG"></a>
 	<figcaption>Ancient Buddha painting #2.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/5Bagan/paint3.JPG"><img src="../images/myanmar/5Bagan/paint3.JPG"></a>
+	<a href="../images/myanmar/5Bagan/paint3.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/paint3.JPG"></a>
 	<figcaption>Quite exquisite, this one.</figcaption>
 </figure>
 
@@ -116,12 +116,12 @@ The next one is very well known to all of you that saw the Lonely Planet's Myanm
 The temple is also known for being the house of the twin Buddha statues, two figures of Buddha sitting next to each other, something that you won't see in any other place in Myanmar.
 
 <figure>
-	<a href="../images/myanmar/5Bagan/lonely.JPG"><img src="../images/myanmar/5Bagan/lonely.JPG"></a>
+	<a href="../images/myanmar/5Bagan/lonely.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/lonely.JPG"></a>
 	<figcaption>Tha Beik Hmauk Pahto temple.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/5Bagan/twins.JPG"><img src="../images/myanmar/5Bagan/twins.JPG"></a>
+	<a href="../images/myanmar/5Bagan/twins.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/twins.JPG"></a>
 	<figcaption>The Twins Buddhas.</figcaption>
 </figure>
 
@@ -132,11 +132,11 @@ On the way back to the Guest House, what we have feared since the first day had 
 Tomorrow we will go on with our journey to <b>Mandalay</b>!
 
 <figure>
-	<a href="../images/myanmar/5Bagan/what.JPG"><img src="../images/myanmar/5Bagan/what.JPG"></a>
+	<a href="../images/myanmar/5Bagan/what.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/what.JPG"></a>
 	<figcaption>Something strange along the way back.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/5Bagan/sunset31.JPG"><img src="../images/myanmar/5Bagan/sunset31.JPG"></a>
+	<a href="../images/myanmar/5Bagan/sunset31.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/5Bagan/sunset31.JPG"></a>
 	<figcaption>The final sunset in Bagan.</figcaption>
 </figure>

@@ -5,7 +5,7 @@ author: luis
 modified:
 excerpt: "The golden land where golden smiles live."
 tags: [memory, life, hapiness, Myanmar, Mandalay, travel, backpacking, budget, asia]
-idPost: 12
+idPost: 9
 image:
   feature: castle.JPG
 ---
@@ -15,7 +15,7 @@ Today we're heading to Mandalay, the second biggest city in Myanmar, and also ho
 We caught an early bus from Bagan that would take us there, on a journey that should not take longer than 3 hours. We were the only tourists on this bus, and when this happens in Myanmar, there is always something funny waiting to happen. This time was a lady that was doing the same trip as we, and kindly "borrowed" her son to us during the trip. Of course that she couldn't speak a word of english, but who needs that, right?
 
 <figure>
-	<a href="../images/myanmar/6Mandalay/boy.JPG"><img src="../images/myanmar/6Mandalay/boy.JPG"></a>
+	<a href="../images/myanmar/6Mandalay/boy.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/6Mandalay/boy.JPG"></a>
 	<figcaption>The little boy.</figcaption>
 </figure>
 
@@ -26,12 +26,12 @@ As soon as we arrived, we noticed that the taxi drivers were all packed up at th
 We enjoyed the afternoon by just walking around the city. The big difference between Mandalay and Yangon, traffic wise, is that motorcycles are allowed to ride in the city center and this is the cause of a gigantic mess. It's kinda hard to cross a street without needing to stop midway, with all the cars and motorcycles riding around, before reaching the other side.
 
 <figure>
-	<a href="../images/myanmar/6Mandalay/castle.JPG"><img src="../images/myanmar/6Mandalay/castle.JPG"></a>
+	<a href="../images/myanmar/6Mandalay/castle.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/6Mandalay/castle.JPG"></a>
 	<figcaption>The Mandalay Palace.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/6Mandalay/sun.JPG"><img src="../images/myanmar/6Mandalay/sun.JPG"></a>
+	<a href="../images/myanmar/6Mandalay/sun.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/6Mandalay/sun.JPG"></a>
 	<figcaption>Beautiful sun.</figcaption>
 </figure>
 
@@ -44,17 +44,17 @@ As the <b>Thingyan</b> approaches, we really needed to secure our train tickets 
 We decided to go to the U Bein Bridge in the afternoon. This bridge has 1.2km and was built around 1850, believed to be the oldest and longest teakwood bridge in the world.
 
 <figure>
-	<a href="../images/myanmar/6Mandalay/bridge1.JPG"><img src="../images/myanmar/6Mandalay/bridge1.JPG"></a>
+	<a href="../images/myanmar/6Mandalay/bridge1.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/6Mandalay/bridge1.JPG"></a>
 	<figcaption>The start of the U Bein Bridge.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/6Mandalay/bridge2.JPG"><img src="../images/myanmar/6Mandalay/bridge2.JPG"></a>
+	<a href="../images/myanmar/6Mandalay/bridge2.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/6Mandalay/bridge2.JPG"></a>
 	<figcaption>The start of the U Bein Bridge.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/6Mandalay/bridge3.JPG"><img src="../images/myanmar/6Mandalay/bridge3.JPG"></a>
+	<a href="../images/myanmar/6Mandalay/bridge3.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/6Mandalay/bridge3.JPG"></a>
 	<figcaption>The sunset at U Bein Bridge.</figcaption>
 </figure>
 
@@ -64,27 +64,27 @@ In the morning we headed to the port where we knew the boats would depart to <b>
 The advantage of using a local boat, besides being cheaper and you're helping the local economy, is that you can interact easily with the local, and even smoke with them. One of the guys sitting next to me offered me one of his cigars, but I couldn't finish it because it was really bad. Nevertheless, kindness all around.
 
 <figure>
-	<a href="../images/myanmar/6Mandalay/mingun1.JPG"><img src="../images/myanmar/6Mandalay/mingun1.JPG"></a>
+	<a href="../images/myanmar/6Mandalay/mingun1.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/6Mandalay/mingun1.JPG"></a>
 	<figcaption>The local boat towards Mingun.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/6Mandalay/mingun2.JPG"><img src="../images/myanmar/6Mandalay/mingun2.JPG"></a>
+	<a href="../images/myanmar/6Mandalay/mingun2.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/6Mandalay/mingun2.JPG"></a>
 	<figcaption>Some footvolley.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/6Mandalay/mingun3.JPG"><img src="../images/myanmar/6Mandalay/mingun3.JPG"></a>
+	<a href="../images/myanmar/6Mandalay/mingun3.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/6Mandalay/mingun3.JPG"></a>
 	<figcaption>Pahtodawgyi.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/6Mandalay/mingun4.JPG"><img src="../images/myanmar/6Mandalay/mingun4.JPG"></a>
+	<a href="../images/myanmar/6Mandalay/mingun4.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/6Mandalay/mingun4.JPG"></a>
 	<figcaption>The largest ringing bell in the world.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/6Mandalay/mingun5.JPG"><img src="../images/myanmar/6Mandalay/mingun5.JPG"></a>
+	<a href="../images/myanmar/6Mandalay/mingun5.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/6Mandalay/mingun5.JPG"></a>
 	<figcaption>Myatheindan pagoda.</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Since we were tourists we needed a special permit (basically pay for a ticket) t
 The rest of the day was once again spent wandering around the streets of Mandalay. Tomorrow is the first day of the <b>Thyngian</b> festival and we couldn't expect what is about to happen.
 
 <figure>
-	<a href="../images/myanmar/6Mandalay/mandalay.JPG"><img src="../images/myanmar/6Mandalay/mandalay.JPG"></a>
+	<a href="../images/myanmar/6Mandalay/mandalay.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/6Mandalay/mandalay.JPG"></a>
 	<figcaption>The second monk seems a bit worried, I don't know why...</figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ Everything.
 That was the WORSE travel experience I had in my entire life. The railways do not have maintenance since the World War II, you can't sleep because of the noise that the train does, and the fact that when you lay down on the "bed" you'll surely be thrown around. It's just essentially impossible to stand still on that train. 15 hours later, we arrived at the capital once again, tired as hell, without sleep.
 
 <figure>
-	<a href="../images/myanmar/6Mandalay/train.JPG"><img src="../images/myanmar/6Mandalay/train.JPG"></a>
+	<a href="../images/myanmar/6Mandalay/train.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/6Mandalay/train.JPG"></a>
 	<figcaption>Sneak peak of our cabin.</figcaption>
 </figure>
 

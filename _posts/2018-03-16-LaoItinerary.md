@@ -5,7 +5,7 @@ author: luis
 modified:
 excerpt: "Detailed information about my itinerary, how I traveled and how much I spent in 2 weeks in Lao."
 tags: [memory, life, hapiness, Lao, Itinerary, travel, backpacking, budget, asia]
-idPost: 42
+idPost: 39
 image:
   feature: lao_itinerary.JPG
 ---
@@ -54,7 +54,7 @@ This itinerary is my personal taste and I didn't use any kind of agency to book 
 </ul>
 
 <figure>
-	<a href="../images/itinerary/laoitinerary.JPG"><img src="../images/itinerary/laoitinerary.JPG"></a>
+	<a href="../images/itinerary/laoitinerary.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/itinerary/laoitinerary.JPG"></a>
 	<figcaption>My Lao Itinerary.</figcaption>
 </figure>
 

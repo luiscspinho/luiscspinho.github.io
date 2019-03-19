@@ -5,7 +5,7 @@ author: luis
 modified:
 excerpt: "It is considered the world capital of Yoga. It is known as the pilgrimage town and regarded as one of the holiest places to Hindus."
 tags: [memory, life, hapiness, India, Rishikesh, travel, backpacking, budget, asia]
-idPost: 17
+idPost: 14
 image:
   feature: rishikesh.JPG
 ---
@@ -19,14 +19,14 @@ We arrived in the morning at the Rishikesh train station, which is far from wher
 Laxman Jhula is the main area for people visiting Rishikesh due to the vast options regarding food/hostels/ashrams/main attractions. Alternatively you can stay in Ram Jhula if you prefer peacefulness (by Indian standards). I only know that these bridges were named after two brothers named Laxman and Ram, members of the Hindu relligion. Just be careful with monkeys on the bridge. They're not afraid of you and will attack if you've food.
 
 <figure>
-	<a href="../images/india/Rishikesh/rishikesh1.JPG"><img src="../images/india/Rishikesh/rishikesh1.JPG"></a>
+	<a href="../images/india/Rishikesh/rishikesh1.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/india/Rishikesh/rishikesh1.JPG"></a>
 	<figcaption>Laxman Jhula, one of the attractions in Rishikesh.</figcaption>
 </figure>
 
 One thing to note is how clean the Ganges river is in here. I ended up seeing it again in Varanasi and it has nothing to do with its state in here, but that will be another story for later.
 
 <figure>
-	<a href="../images/india/Rishikesh/rishikesh2.JPG"><img src="../images/india/Rishikesh/rishikesh2.JPG"></a>
+	<a href="../images/india/Rishikesh/rishikesh2.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/india/Rishikesh/rishikesh2.JPG"></a>
 	<figcaption>The Ganges river with one of the main Ashrams in Rishikesh.</figcaption>
 </figure>
 
@@ -35,12 +35,12 @@ Accomodation wise, I can't recommend the place I stayed in. It is called <b>Bonf
 One cool thing we did while there was catching the <b>Ganges Aarti</b>, a Hindu religious ritual of worship, a part of puja, in which light from wicks soaked in <i>ghee</i> (purified butter) or <i>camphor</i> is offered to one or more deities. This ritual happens daily in the holy cities of India where the Ganges flows. We would watch this ritual again in <b>Varanasi</b>.
 
 <figure>
-	<a href="../images/india/Rishikesh/rishikesh3.JPG"><img src="../images/india/Rishikesh/rishikesh3.JPG"></a>
+	<a href="../images/india/Rishikesh/rishikesh3.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/india/Rishikesh/rishikesh3.JPG"></a>
 	<figcaption>Before the Aarti on the Ganges bank.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/india/Rishikesh/rishikesh4.JPG"><img src="../images/india/Rishikesh/rishikesh4.JPG"></a>
+	<a href="../images/india/Rishikesh/rishikesh4.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/india/Rishikesh/rishikesh4.JPG"></a>
 	<figcaption>During the Aarti celebrations.</figcaption>
 </figure>
 
@@ -49,17 +49,17 @@ In the remaining time that we had in Rishikesh we went to a waterfall located a 
 When we got to Ram Jhula we were amazed by the beauty of this neighborhood and its cleanliness for Indian standards! It is clearly a British colonial area where all the houses/ashrams and streets are all aligned in an oddly beautiful way. If you're planning to go on a yoga retreat I would easily recommend this area for you to stay.
 
 <figure>
-	<a href="../images/india/Rishikesh/rishikesh5.JPG"><img src="../images/india/Rishikesh/rishikesh5.JPG"></a>
+	<a href="../images/india/Rishikesh/rishikesh5.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/india/Rishikesh/rishikesh5.JPG"></a>
 	<figcaption>Local girls at the waterfall.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/india/Rishikesh/rishikesh6.JPG"><img src="../images/india/Rishikesh/rishikesh6.JPG"></a>
+	<a href="../images/india/Rishikesh/rishikesh6.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/india/Rishikesh/rishikesh6.JPG"></a>
 	<figcaption>Somewhere between the 2 Jhulas.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/india/Rishikesh/rishikesh7.JPG"><img src="../images/india/Rishikesh/rishikesh7.JPG"></a>
+	<a href="../images/india/Rishikesh/rishikesh7.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/india/Rishikesh/rishikesh7.JPG"></a>
 	<figcaption>Harmony between species.</figcaption>
 </figure>
 
@@ -68,11 +68,11 @@ If you want to try some <i>thali</i> I recommend you to eat on the restaurants a
 From Rishikesh we walked to the local bus station (quite a walk, but for some reason there was not 1 tuk tuk on the road that day...) to get a bus to <b>Haridwar</b> where we were supposed to get a train to <b>Ajmer</b> and finally another bus to <b>Pushkar</b>, our next stop for 2 days.
 
 <figure>
-	<a href="../images/india/Rishikesh/rishikesh8.JPG"><img src="../images/india/Rishikesh/rishikesh8.JPG"></a>
+	<a href="../images/india/Rishikesh/rishikesh8.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/india/Rishikesh/rishikesh8.JPG"></a>
 	<figcaption>For every problem, there is a solution.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/india/Rishikesh/rishikesh9.JPG"><img src="../images/india/Rishikesh/rishikesh9.JPG"></a>
+	<a href="../images/india/Rishikesh/rishikesh9.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/india/Rishikesh/rishikesh9.JPG"></a>
 	<figcaption>Once again, harmony...</figcaption>
 </figure>

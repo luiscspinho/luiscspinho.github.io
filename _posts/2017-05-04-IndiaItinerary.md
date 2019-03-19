@@ -5,7 +5,7 @@ author: luis
 modified:
 excerpt: "Detailed information about my itinerary, how I traveled and how much I spent in 1 month in northern India."
 tags: [memory, life, hapiness, India, Itinerary, travel, backpacking, budget, asia]
-idPost: 22
+idPost: 19
 image:
   feature: india_itinerary.JPG
 ---
@@ -60,7 +60,7 @@ This itinerary is my personal taste and I didn't use any kind of agency to book 
 </ul>
 
 <figure>
-	<a href="../images/itinerary/indiaitinerary.JPG"><img src="../images/itinerary/indiaitinerary.JPG"></a>
+	<a href="../images/itinerary/indiaitinerary.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/itinerary/indiaitinerary.JPG"></a>
 	<figcaption>My India Itinerary.</figcaption>
 </figure>
 

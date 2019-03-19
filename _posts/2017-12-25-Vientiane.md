@@ -5,7 +5,7 @@ author: luis
 modified:
 excerpt: "Vientiane is the capital of Lao and probably the most calm capital of the SE Asia. I didn't find the city charming at all and left as soon as I could."
 tags: [Lao, travel, backpacking, budget, asia]
-idPost: 39
+idPost: 36
 image:
   feature: vientiane.JPG
 ---
@@ -21,14 +21,14 @@ It was early morning when I got to Vientiane after a night journey from <b><a hr
 On that same day I went to visit <b>Pha That Luang</b>, the national symbol and most important religious monument of the country. This is easily accessible by foot, because the traffic in Vientiane is almost nonexistent when compared to any other city in SE Asia.
 
 <figure>
-	<a href="../images/lao/vientiane/vientiane1.JPG"><img src="../images/lao/vientiane/vientiane1.JPG"></a>
+	<a href="../images/lao/vientiane/vientiane1.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/vientiane/vientiane1.JPG"></a>
 	<figcaption>Pha That Luang, national symbol of Vientiane.</figcaption>
 </figure>
 
 When coming back to my Guesthouse, I took a quick detour to see the <b>Patuxai Monument</b>, the <i>Arc de Triomphe</i> of Vientiane. It isn't nothing out of this world, but since it is on the way back it is worth stopping by in my opinion.
 
 <figure>
-	<a href="../images/lao/vientiane/vientiane2.JPG"><img src="../images/lao/vientiane/vientiane2.JPG"></a>
+	<a href="../images/lao/vientiane/vientiane2.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/vientiane/vientiane2.JPG"></a>
 	<figcaption>Patuxai, a very poor version of the <i>Arc de Triomphe</i>.</figcaption>
 </figure>
 

@@ -5,7 +5,7 @@ author: luis
 modified:
 excerpt: "The golden land where golden smiles live."
 tags: [memory, life, hapiness, Myanmar, Yangon, travel, backpacking, budget, asia]
-idPost: 13
+idPost: 10
 image:
   feature: end.JPG
 ---
@@ -17,7 +17,7 @@ The first of the three days in Yangon was a waste. We should have stayed at the 
 We ended up enjoying our morning just resting our bodies. After lunch we took the <i>circular train</i>, a train that rides a circle around the city passing through a lot of rural areas otherwise unseen while walking around. Of course that we found a lot of tourists there, even a monk sitting in front of us enjoying the ride. Since the <b>Thingyan</b> was still on it was super normal to people throw buckets of water through the windows in every train stop. We got king of lucky to be sitting in front of a monk because, as a sign of respect, people should not throw water and get the monk wet.
 
 <figure>
-	<a href="../images/myanmar/7Yangon/circular.JPG"><img src="../images/myanmar/7Yangon/circular.JPG"></a>
+	<a href="../images/myanmar/7Yangon/circular.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/7Yangon/circular.JPG"></a>
 	<figcaption>On the circular train.</figcaption>
 </figure>
 
@@ -35,39 +35,39 @@ Guys running, beating each other, chairs hitting a guy's back, tables flying, ev
 I could only follow with a smile...
 
 <figure>
-	<a href="../images/myanmar/7Yangon/yangon.JPG"><img src="../images/myanmar/7Yangon/yangon.JPG"></a>
+	<a href="../images/myanmar/7Yangon/yangon.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/7Yangon/yangon.JPG"></a>
 	<figcaption>On the festivities.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/7Yangon/yangon2.JPG"><img src="../images/myanmar/7Yangon/yangon2.JPG"></a>
+	<a href="../images/myanmar/7Yangon/yangon2.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/7Yangon/yangon2.JPG"></a>
 	<figcaption>On the festivities 2.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/7Yangon/yangon3.JPG"><img src="../images/myanmar/7Yangon/yangon3.JPG"></a>
+	<a href="../images/myanmar/7Yangon/yangon3.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/7Yangon/yangon3.JPG"></a>
 	<figcaption>On the festivities 3.</figcaption>
 </figure>
 
 The last 2 days in Yangon were mainly used to wonder through the city and to rest. After 3 fast paced weeks with no rest, we were feeling tired and weren't much into adventures, also we already knew the majority of the city so I'll just leave here some pictures of the last couple of days.
 
 <figure>
-	<a href="../images/myanmar/7Yangon/cat.JPG"><img src="../images/myanmar/7Yangon/cat.JPG"></a>
+	<a href="../images/myanmar/7Yangon/cat.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/7Yangon/cat.JPG"></a>
 	<figcaption>"Hey, you need something?"</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/7Yangon/market.JPG"><img src="../images/myanmar/7Yangon/market.JPG"></a>
+	<a href="../images/myanmar/7Yangon/market.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/7Yangon/market.JPG"></a>
 	<figcaption>Meat selling on the streets of Yangon.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/7Yangon/hindu.JPG"><img src="../images/myanmar/7Yangon/hindu.JPG"></a>
+	<a href="../images/myanmar/7Yangon/hindu.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/7Yangon/hindu.JPG"></a>
 	<figcaption>Hindu temple.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/7Yangon/child.JPG"><img src="../images/myanmar/7Yangon/child.JPG"></a>
+	<a href="../images/myanmar/7Yangon/child.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/7Yangon/child.JPG"></a>
 	<figcaption>"A walk in the park".</figcaption>
 </figure>
 

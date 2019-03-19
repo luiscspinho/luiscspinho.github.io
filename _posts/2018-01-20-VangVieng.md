@@ -5,7 +5,7 @@ author: luis
 modified:
 excerpt: "Vang Vieng is Lao's nature at its best. It is the stunning scenery of river and rock formations surrounding this place that will keep you dreaming of Laos long after you've settled back into real life."
 tags: [Lao, travel, backpacking, budget, asia]
-idPost: 40
+idPost: 37
 image:
   feature: vangvieng.JPG
 ---
@@ -17,7 +17,7 @@ During the day people would gather in one of the many bars around town to chill 
 <b><highlight><middle>Gladly, this is not the Vang Vieng that I encountered when I visited.</middle></highlight></b>
 
 <figure>
-	<a href="../images/lao/vangvieng/vangvieng1.JPG"><img src="../images/lao/vangvieng/vangvieng1.JPG"></a>
+	<a href="../images/lao/vangvieng/vangvieng1.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/vangvieng/vangvieng1.JPG"></a>
 	<figcaption>Vang Vieng was love at first sight.</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ I left <b><a href="{{site.url}}/Vientiane" target="_blank">Vientiane</a></b> in 
 I stayed in <b>Dokboua Guesthouse</b> where I got a double room with private bathroom for ~8$. The location is pretty central (it's not hard, Vang Vieng is very small) and the old lady that runs the place is very nice, despite the clear difficulty with the English, but she always found a way to communicate! Wifi is available and she can arrange everything you need like buses, for example, although this is pretty standard in every place.
 
 <figure>
-	<a href="../images/lao/vangvieng/vangvieng2.JPG"><img src="../images/lao/vangvieng/vangvieng2.JPG"></a>
+	<a href="../images/lao/vangvieng/vangvieng2.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/vangvieng/vangvieng2.JPG"></a>
 	<figcaption>It is possible to ride a hot air balloon in Vang Vieng!</figcaption>
 </figure>
 
@@ -37,22 +37,22 @@ The best way to explore the surroundings of Vang Vieng is by bicycle or motorbik
 <b>Rent a motorbike for 1 full day. At least.</b> Exploring the beautiful nature around Vang Vient it's one of the most satisfying things to do. One of the reasons to rent the motorbike is to go to the famous <b>Blue Lagoon</b>, located at ~8km from downtown. The lagoon is quite nice and you'll have a bonus cave to explore in the area. The entrance fee was 10.000Kip in December 2016. Be sure to stop at <b>Pha Ngern viewpoint</b> on your way to the lagoon, despite being quite a climb, you'll be rewarded with an amazing view once you're there. Definitely worth the hassle.
 
 <figure>
-	<a href="../images/lao/vangvieng/vangvieng3.JPG"><img src="../images/lao/vangvieng/vangvieng3.JPG"></a>
+	<a href="../images/lao/vangvieng/vangvieng3.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/vangvieng/vangvieng3.JPG"></a>
 	<figcaption>The viewpoint is magnificient.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/vangvieng/vangvieng4.JPG"><img src="../images/lao/vangvieng/vangvieng4.JPG"></a>
+	<a href="../images/lao/vangvieng/vangvieng4.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/vangvieng/vangvieng4.JPG"></a>
 	<figcaption>The harvested fields of Vang Vieng.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/vangvieng/vangvieng5.JPG"><img src="../images/lao/vangvieng/vangvieng5.JPG"></a>
+	<a href="../images/lao/vangvieng/vangvieng5.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/vangvieng/vangvieng5.JPG"></a>
 	<figcaption>The Blue Lagoon is nice for a quick swim.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/vangvieng/vangvieng6.JPG"><img src="../images/lao/vangvieng/vangvieng6.JPG"></a>
+	<a href="../images/lao/vangvieng/vangvieng6.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/vangvieng/vangvieng6.JPG"></a>
 	<figcaption>The cave next to the Blue Lagoon is amazing!</figcaption>
 </figure>
 
@@ -61,27 +61,27 @@ I think that the best way to explore the Vang Vieng's surroundings is to simply 
 The rural area of Vang Vieng is the most interesting and appealing for me. I truly feel for the people that stay all day in some random bar watching episodes of <i>Friends</i> when they have this amazing scenery available to explore. Vieng Vieng is a lot more than your usual backpacker destination.
 
 <figure>
-	<a href="../images/lao/vangvieng/vangvieng7.JPG"><img src="../images/lao/vangvieng/vangvieng7.JPG"></a>
+	<a href="../images/lao/vangvieng/vangvieng7.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/vangvieng/vangvieng7.JPG"></a>
 	<figcaption>Be careful not only with the roads, but also with the animals!</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/vangvieng/vangvieng8.JPG"><img src="../images/lao/vangvieng/vangvieng8.JPG"></a>
+	<a href="../images/lao/vangvieng/vangvieng8.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/vangvieng/vangvieng8.JPG"></a>
 	<figcaption>Amazing landscape for a school, right?!</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/vangvieng/vangvieng9.JPG"><img src="../images/lao/vangvieng/vangvieng9.JPG"></a>
+	<a href="../images/lao/vangvieng/vangvieng9.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/vangvieng/vangvieng9.JPG"></a>
 	<figcaption>Rural Vang Vieng, away from the tourist crowds.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/vangvieng/vangvieng10.JPG"><img src="../images/lao/vangvieng/vangvieng10.JPG"></a>
+	<a href="../images/lao/vangvieng/vangvieng10.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/vangvieng/vangvieng10.JPG"></a>
 	<figcaption>Coming through!</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/vangvieng/vangvieng11.JPG"><img src="../images/lao/vangvieng/vangvieng11.JPG"></a>
+	<a href="../images/lao/vangvieng/vangvieng11.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/vangvieng/vangvieng11.JPG"></a>
 	<figcaption>The school is finished for today.</figcaption>
 </figure>
 
@@ -92,22 +92,22 @@ In this case it is better to not make plans at all and just go with the flow. I 
 <b><highlight><middle>Vang Vieng was the climax of nature in Lao, so just embrace it!</middle></highlight></b>
 
 <figure>
-	<a href="../images/lao/vangvieng/vangvieng12.JPG"><img src="../images/lao/vangvieng/vangvieng12.JPG"></a>
+	<a href="../images/lao/vangvieng/vangvieng12.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/vangvieng/vangvieng12.JPG"></a>
 	<figcaption>The landscape around Vang Vieng is always surprising.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/vangvieng/vangvieng13.JPG"><img src="../images/lao/vangvieng/vangvieng13.JPG"></a>
+	<a href="../images/lao/vangvieng/vangvieng13.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/vangvieng/vangvieng13.JPG"></a>
 	<figcaption>Another example of amazing landscape!</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/vangvieng/vangvieng14.JPG"><img src="../images/lao/vangvieng/vangvieng14.JPG"></a>
+	<a href="../images/lao/vangvieng/vangvieng14.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/vangvieng/vangvieng14.JPG"></a>
 	<figcaption>And more...</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/vangvieng/vangvieng15.JPG"><img src="../images/lao/vangvieng/vangvieng15.JPG"></a>
+	<a href="../images/lao/vangvieng/vangvieng15.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/vangvieng/vangvieng15.JPG"></a>
 	<figcaption>Hot air balloing in the river where people go tubing.</figcaption>
 </figure>
 

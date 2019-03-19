@@ -5,7 +5,7 @@ author: luis
 modified:
 excerpt: "The golden land where golden smiles live."
 tags: [memory, life, hapiness, Myanmar, Inle, Lake, travel, backpacking, budget, asia]
-idPost: 7
+idPost: 4
 image:
   feature: inle.JPG
 ---
@@ -15,7 +15,7 @@ If by now you think that Myanmar is a poor country with poor infrastructures you
 We got to the Nyaung Shwe Junction at around 4/5am and obviously there was a crowd of people waiting for someone that would drop off at that point to offer their taxi/rickshaw/bike services. On the other side of the road there was a little stand with people having drinks and snacks so we decided to eat something first. Eventually a man approached us with a reasonable offer that we decided to take. Half way through our ride the car stopped and it was the first time we had to pay a <i>reasonable amount</i> of 10$ each for a tourist ticket. Don't get me wrong, we were not paying to visit anything, it's just a ticket to get to the village. It's like going to your parents house, but first paying a fee to the government just because they want. You got the idea, right?
 
 <figure>
-	<a href="../images/myanmar/3InleLake/breakfast.JPG"><img src="../images/myanmar/3InleLake/breakfast.JPG"></a>
+	<a href="../images/myanmar/3InleLake/breakfast.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/3InleLake/breakfast.JPG"></a>
 	<figcaption>Little stand by the road.</figcaption>
 </figure>
 
@@ -26,31 +26,31 @@ It's impossible not to feel instantly calm and relaxed when you wander around Ny
 The first detour we took led us to a little rural <i>village</i> where there was only one hand made road for people and bikes to cross. It's in these kind of places where you find the most curious people that stare at you as you're some kind of Hollywood star (we would experience this more intensively couple of days after on the train to Kalaw). There was a man that approached us while at home just to maybe practice his English or just wanting to interact for the sake of it. People in Myanmar do that a lot.
 
 <figure>
-	<a href="../images/myanmar/3InleLake/uv.JPG"><img src="../images/myanmar/3InleLake/uv.JPG"></a>
+	<a href="../images/myanmar/3InleLake/uv.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/3InleLake/uv.JPG"></a>
 	<figcaption>The unknown village.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/3InleLake/uv2.JPG"><img src="../images/myanmar/3InleLake/uv2.JPG"></a>
+	<a href="../images/myanmar/3InleLake/uv2.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/3InleLake/uv2.JPG"></a>
 	<figcaption>More of the unknown village.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/3InleLake/bike1.JPG"><img src="../images/myanmar/3InleLake/bike1.JPG"></a>
+	<a href="../images/myanmar/3InleLake/bike1.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/3InleLake/bike1.JPG"></a>
 	<figcaption>Our bikes in great style.</figcaption>
 </figure>
 
 We continued our journey always cycling by the rice fields where people were working and kids playing. Our goal was to cycle alongside the lake and eventually we would reach a Pagoda with a nice view of the lake.
 
 <figure>
-	<a href="../images/myanmar/3InleLake/ricefield.JPG"><img src="../images/myanmar/3InleLake/ricefield.JPG"></a>
+	<a href="../images/myanmar/3InleLake/ricefield.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/3InleLake/ricefield.JPG"></a>
 	<figcaption>People working on the rice fields.</figcaption>
 </figure>
 
 When we reached our goal and, as always, there was a <i>surprise</i> waiting for us. A joyous climbing of stairs of about 3/5 minutes and this if you don't stop. I can't remember the last time I was breathing so heavily when I reached the top. You've a stunning view of the lake and its surroundings, that can't be denied, but what doesn't when you climb high enough? Unfortunately I don't have photos of the view we had because the camera ran out of battery as we were walking around the Pagoda, so the next one is the best I can show you.
 
 <figure>
-	<a href="../images/myanmar/3InleLake/pagoda1.JPG"><img src="../images/myanmar/3InleLake/pagoda1.JPG"></a>
+	<a href="../images/myanmar/3InleLake/pagoda1.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/3InleLake/pagoda1.JPG"></a>
 	<figcaption>Pagoda at top of the hill.</figcaption>
 </figure>
 
@@ -61,26 +61,26 @@ When we arrived at the guest house there was a football game on the TV (Liverpoo
 We woke up early for our boat trip around the lake as one of the <i>must do things</i> in Inle Lake. When we got to the pier it was quite packed because everyone seemed to have started the tour at the same time.
 
 <figure>
-	<a href="../images/myanmar/3InleLake/bt1.JPG"><img src="../images/myanmar/3InleLake/bt1.JPG"></a>
+	<a href="../images/myanmar/3InleLake/bt1.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/3InleLake/bt1.JPG"></a>
 	<figcaption>The pier.</figcaption>
 </figure>
 
 The lake is HUGE. Its estimated surface area is 116 km2. There's all sorts of things that you can find in the lake like floating gardens, little villages, cigar making houses, jewellery stores (for tourists, of course), hand made clothing <i>industries</i> and monasteries where there's a myth where in one of them there are jumping cats trained by monks. I guess that those jumping cats must have jumped so high that we didn't have the opportunity to see them and even our boat driver laughed when we asked if the cats really jumped. Ah, and the people fishing in the river have an interesting way to ride the boat. While they need both hands to manage the ropes and baskets that they use to fish, the legs are used to steer the boat in wherever direction they want to go.
 
 <figure>
-	<a href="../images/myanmar/3InleLake/bt4.JPG"><img src="../images/myanmar/3InleLake/bt4.JPG"></a>
+	<a href="../images/myanmar/3InleLake/bt4.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/3InleLake/bt4.JPG"></a>
 	<figcaption>Sailing with feet.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/3InleLake/bt2.JPG"><img src="../images/myanmar/3InleLake/bt2.JPG"></a>
+	<a href="../images/myanmar/3InleLake/bt2.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/3InleLake/bt2.JPG"></a>
 	<figcaption>Houses on the river.</figcaption>
 </figure>
 
 Our first stop was just beside the floating gardens. Yes, people in the lake have a garden all designed above water where flowers grow. It was one of the nicest things that we saw on the river, no doubt.
 
 <figure>
-	<a href="../images/myanmar/3InleLake/bt3.JPG"><img src="../images/myanmar/3InleLake/bt3.JPG"></a>
+	<a href="../images/myanmar/3InleLake/bt3.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/3InleLake/bt3.JPG"></a>
 	<figcaption>Floating garden.</figcaption>
 </figure>
 
@@ -89,26 +89,26 @@ After the gardens we went on a rampage of touristy places that the boat driver t
 Next we went to the <i>floating market</i> that wasn't floating because of the dry season. So instead people just had a stand on the road to sell their merchandise to tourists. However, there was a kind man that approached us while on the boat to sell me a generous sword. The funny part of the floating market was when we ran into a couple of Portuguese tourists travelling through the south east of Asia. I must confess, I wasn't expecting that.
 
 <figure>
-	<a href="../images/myanmar/3InleLake/bt5.JPG"><img src="../images/myanmar/3InleLake/bt5.JPG"></a>
+	<a href="../images/myanmar/3InleLake/bt5.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/3InleLake/bt5.JPG"></a>
 	<figcaption>The <i>floating market</i>.</figcaption>
 </figure>
 
 Our last stop before lunch was the cigar making house. They only used tobacco and a leaf to wrap it up, but still I must confess that I was quite impressed on how quickly they did all this. They even had some samples for us to try, which were very tasty.
 
 <figure>
-	<a href="../images/myanmar/3InleLake/bt6.JPG"><img src="../images/myanmar/3InleLake/bt6.JPG"></a>
+	<a href="../images/myanmar/3InleLake/bt6.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/3InleLake/bt6.JPG"></a>
 	<figcaption>Tobacco, tobacco and tobacco.</figcaption>
 </figure>
 
 We finally got to lunch time near the main Pagoda in the lake. There were a lot of pilgrims there, despite being only possible to get there by boat, but as we discovered along our journey, the faith that people in Myanmar have in Buddha goes beyond everyone's possibilities. Also, another interesting thing is that there's rice in almost every meal and even cats have to eat rice. True story.
 
 <figure>
-	<a href="../images/myanmar/3InleLake/bt7.JPG"><img src="../images/myanmar/3InleLake/bt7.JPG"></a>
+	<a href="../images/myanmar/3InleLake/bt7.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/3InleLake/bt7.JPG"></a>
 	<figcaption>Best. Water. Ever.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/myanmar/3InleLake/bt8.JPG"><img src="../images/myanmar/3InleLake/bt8.JPG"></a>
+	<a href="../images/myanmar/3InleLake/bt8.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/myanmar/3InleLake/bt8.JPG"></a>
 	<figcaption>Cats eating rice?!</figcaption>
 </figure>
 

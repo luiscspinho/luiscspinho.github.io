@@ -5,7 +5,7 @@ author: luis
 modified:
 excerpt: "The town of Luang Prabang is a Unesco World Heritage Site. The town stands out for its laid back atmosphere and beautiful and clean downtown."
 tags: [Lao, travel, backpacking, budget, asia]
-idPost: 41
+idPost: 38
 image:
   feature: luangprabang.JPG
 ---
@@ -23,12 +23,12 @@ Out of nowhere came a guy driving like a maniac overtaking us. I saw him getting
 Despite all of this, I still could enjoy the views between <b><a href="{{site.url}}/VangVieng" target="_blank">Vang Vieng</a></b> and Luang Prabang. It is without a doubt one of the most scenic roads out there.
 
 <figure>
-	<a href="../images/lao/luangprabang/luangprabang1.JPG"><img src="../images/lao/luangprabang/luangprabang1.JPG"></a>
+	<a href="../images/lao/luangprabang/luangprabang1.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/luangprabang/luangprabang1.JPG"></a>
 	<figcaption>This is one of the most beautiful roads in Lao!</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/luangprabang/luangprabang2.JPG"><img src="../images/lao/luangprabang/luangprabang2.JPG"></a>
+	<a href="../images/lao/luangprabang/luangprabang2.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/luangprabang/luangprabang2.JPG"></a>
 	<figcaption>A quick stop between Vang Vieng and Luang Prabang.</figcaption>
 </figure>
 
@@ -37,17 +37,17 @@ The city of Luang Prabang is a Unesco World Heritage Site and it's a wonderful m
 Luang Prabang is also known for an ancient tradition called <i>Alms Ceremony</i>. Monks walk along the streets at dawn to collect offerings from locals and tourists. This ancient tradition reminded me about the exact same one that I wanted to experience in <b><a href="{{site.url}}/Land-of-Smiles-4" target="_blank">Bagan (Myanmar)</a></b>, although this one is surrounded by far more controversy. (It is very easy to find information about this online)
 
 <figure>
-	<a href="../images/lao/luangprabang/luangprabang3.JPG"><img src="../images/lao/luangprabang/luangprabang3.JPG"></a>
+	<a href="../images/lao/luangprabang/luangprabang3.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/luangprabang/luangprabang3.JPG"></a>
 	<figcaption>Inside one of the many monasteries in downtown.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/luangprabang/luangprabang4.JPG"><img src="../images/lao/luangprabang/luangprabang4.JPG"></a>
+	<a href="../images/lao/luangprabang/luangprabang4.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/luangprabang/luangprabang4.JPG"></a>
 	<figcaption>Traditional Laotian house.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/luangprabang/luangprabang5.JPG"><img src="../images/lao/luangprabang/luangprabang5.JPG"></a>
+	<a href="../images/lao/luangprabang/luangprabang5.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/luangprabang/luangprabang5.JPG"></a>
 	<figcaption>My first sunset in town!</figcaption>
 </figure>
 
@@ -56,22 +56,22 @@ On my second day I decided to rent a scooter in order to go to <b>Kuang Si Water
 Right before getting to the waterfalls, but already inside the complex, there is also a Bear sanctuary ran by a NGO, trying to save wild bears that were being used for illegal wildlife trade.
 
 <figure>
-	<a href="../images/lao/luangprabang/luangprabang6.JPG"><img src="../images/lao/luangprabang/luangprabang6.JPG"></a>
+	<a href="../images/lao/luangprabang/luangprabang6.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/luangprabang/luangprabang6.JPG"></a>
 	<figcaption>Save the bears!</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/luangprabang/luangprabang7.JPG"><img src="../images/lao/luangprabang/luangprabang7.JPG"></a>
+	<a href="../images/lao/luangprabang/luangprabang7.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/luangprabang/luangprabang7.JPG"></a>
 	<figcaption>A good nap!</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/luangprabang/luangprabang8.JPG"><img src="../images/lao/luangprabang/luangprabang8.JPG"></a>
+	<a href="../images/lao/luangprabang/luangprabang8.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/luangprabang/luangprabang8.JPG"></a>
 	<figcaption>The Kuang Si Waterfalls are very picturesque.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/luangprabang/luangprabang9.JPG"><img src="../images/lao/luangprabang/luangprabang9.JPG"></a>
+	<a href="../images/lao/luangprabang/luangprabang9.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/luangprabang/luangprabang9.JPG"></a>
 	<figcaption>It's impossible to deny the sheer beauty of the waterfalls.</figcaption>
 </figure>
 
@@ -82,27 +82,27 @@ Luang Prabang is the best place to buy souvenirs, there's a huge daily market in
 I really loved walking around town, relaxing while appreciating the beauty of this timeless and beautiful place.
 
 <figure>
-	<a href="../images/lao/luangprabang/luangprabang10.JPG"><img src="../images/lao/luangprabang/luangprabang10.JPG"></a>
+	<a href="../images/lao/luangprabang/luangprabang10.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/luangprabang/luangprabang10.JPG"></a>
 	<figcaption>Inside one of the many Buddhist temples.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/luangprabang/luangprabang11.JPG"><img src="../images/lao/luangprabang/luangprabang11.JPG"></a>
+	<a href="../images/lao/luangprabang/luangprabang11.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/luangprabang/luangprabang11.JPG"></a>
 	<figcaption>Someone has to go and get the coconuts, right?!</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/luangprabang/luangprabang13.JPG"><img src="../images/lao/luangprabang/luangprabang13.JPG"></a>
+	<a href="../images/lao/luangprabang/luangprabang13.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/luangprabang/luangprabang13.JPG"></a>
 	<figcaption>Some Laotian art in a temple complex somewhere in town.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/luangprabang/luangprabang12.JPG"><img src="../images/lao/luangprabang/luangprabang12.JPG"></a>
+	<a href="../images/lao/luangprabang/luangprabang12.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/luangprabang/luangprabang12.JPG"></a>
 	<figcaption>The wedding dresses are quite something.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/luangprabang/luangprabang14.JPG"><img src="../images/lao/luangprabang/luangprabang14.JPG"></a>
+	<a href="../images/lao/luangprabang/luangprabang14.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/luangprabang/luangprabang14.JPG"></a>
 	<figcaption>Monks having a good time.</figcaption>
 </figure>
 
@@ -111,12 +111,12 @@ Overall, I had a great time in Luang Prabang, a quite charming and relaxed town 
 My next destination was Bangkok. This proved to be a <i>little</i> bit challenging because I needed to go back to the <b>ugly</b> <b><a href="{{site.url}}/Vientiane" target="_blank">Vientiane</a></b> in order to cross the <b>Thai - Lao Friendship Bridge</b> into Thailand, and from there get a night train to Bangkok. There are some travel agencies where you can buy the complete package to Bangkok, and that was what I did. I think I paid between 30-40$ for the whole package.
 
 <figure>
-	<a href="../images/lao/luangprabang/luangprabang15.JPG"><img src="../images/lao/luangprabang/luangprabang15.JPG"></a>
+	<a href="../images/lao/luangprabang/luangprabang15.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/luangprabang/luangprabang15.JPG"></a>
 	<figcaption>Be sure to go to the bathroom before boarding a night bus!</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/luangprabang/luangprabang16.JPG"><img src="../images/lao/luangprabang/luangprabang16.JPG"></a>
+	<a href="../images/lao/luangprabang/luangprabang16.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/luangprabang/luangprabang16.JPG"></a>
 	<figcaption>The night bus from Luang Prabang to Vientiane.</figcaption>
 </figure>
 
@@ -127,12 +127,12 @@ I proceed to ask at a Hotel reception if they could call a number I had on my ti
 After this incident, everything went well. A pickup came to get me to the border where I was stamped out of the country (not without the usual <i>stamp fee</i> bribe) and boarded a train that got me to Thailand. People were cheering outside as I crossed the bridge, it was quite funny!
 
 <figure>
-	<a href="../images/lao/luangprabang/luangprabang17.JPG"><img src="../images/lao/luangprabang/luangprabang17.JPG"></a>
+	<a href="../images/lao/luangprabang/luangprabang17.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/luangprabang/luangprabang17.JPG"></a>
 	<figcaption>The train station in Lao's side.</figcaption>
 </figure>
 
 <figure>
-	<a href="../images/lao/luangprabang/luangprabang18.JPG"><img src="../images/lao/luangprabang/luangprabang18.JPG"></a>
+	<a href="../images/lao/luangprabang/luangprabang18.JPG"><img src="../images/blank.JPG" alt="" data-echo="../images/lao/luangprabang/luangprabang18.JPG"></a>
 	<figcaption>As the sun went down, my journey in Lao came to an end.</figcaption>
 </figure>
 
