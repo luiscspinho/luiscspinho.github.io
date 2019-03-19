@@ -4,6 +4,7 @@ title: Visited Countries
 excerpt: "All my visited countries."
 image:
 ---
+
 <script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
@@ -91,6 +92,26 @@ areas :
   {
     "id": "IR",
     "showAsSelected": true
+  },
+  {
+    "id": "IL",
+    "showAsSelected": true
+  },
+  {
+    "id": "PS",
+    "showAsSelected": true
+  },
+  {
+    "id": "JO",
+    "showAsSelected": true
+  },
+  {
+    "id": "AE",
+    "showAsSelected": true
+  },
+  {
+    "id": "RU",
+    "showAsSelected": true
   }
 ]
 },
@@ -112,8 +133,9 @@ rollOverOutlineColor : "#000000"
 <img src="../images/flags/cz.png"/> Czech Republic <small>(Prague)</small><br>
 <img src="../images/flags/fr.png"/> France <small>(Marseille, Cassis)</small><br>
 <img src="../images/flags/it.png"/> Italy <small>(Milan)</small><br>
-<img src="../images/flags/pt.png"/> Portugal <small>(too many...)</small><br>
+<img src="../images/flags/pt.png"/> Portugal <small>(Homeland!)</small><br>
 <img src="../images/flags/ro.png"/> Romania <small>(Cluj Napoca)</small><br>
+<img src="../images/flags/ru.png"/> Russia <small>(Moscow)</small><br>
 <img src="../images/flags/es.png"/> Spain <small>(Madrid, Santiago, Vigo)</small><br>
 <img src="../images/flags/tr.png"/> Turkey <small>(Istambul, Cappadocia, Olimpos, Kaş, Fethiye, Pamukkale)</small><br>
 <img src="../images/flags/gb.png"/> United Kingdom <small>(London)</small><br><br><br>
@@ -122,8 +144,11 @@ rollOverOutlineColor : "#000000"
 <img src="../images/flags/eg.png"/> Egypt <small>(<a href="{{site.url}}/Cairo" target="_blank">Cairo</a>,
 <a href="{{site.url}}/Luxor" target="_blank">Luxor</a>,
 <a href="{{site.url}}/Aswan" target="_blank">Aswan</a>)</small><br>
-<img src="../images/flags/ir.png"/> Iran <small>(Tehran, Shiraz, Yazd, Varzaneh, Esfahan, Kashan, Alamut Valley, Masouleh, Qom)</small><br><br><br>
-
+<img src="../images/flags/il.png"/> Israel <small>(Tel Aviv, Jerusalem, Masada & Dead Sea)</small><br>
+<img src="../images/flags/ir.png"/> Iran <small>(<a href="{{site.url}}/Tehran" target="_blank">Tehran</a>, Shiraz, Yazd, Varzaneh, Esfahan, Kashan, Alamut Valley, Masouleh, Qom)</small><br>
+<img src="../images/flags/jo.png"/> Jordan <small>(Amman, Petra, Wadi Rum, Aqaba)</small><br>
+<img src="../images/flags/ps.png"/> Palestine <small>(Jerusalem, Bethlehem, Ramallah, Nablus)</small><br>
+<img src="../images/flags/ae.png"/> United Arab Emirates <small>(Dubai)</small><br><br><br>
 
 <h1>Asia</h1>
 <img src="../images/flags/kh.png"/> Cambodia <small>(<a href="{{site.url}}/PhnomPenh" target="_blank">Phnom Penh</a>,
