@@ -145,7 +145,9 @@ rollOverOutlineColor : "#000000"
 <a href="{{site.url}}/Luxor" target="_blank">Luxor</a>,
 <a href="{{site.url}}/Aswan" target="_blank">Aswan</a>)</small><br>
 <img src="../images/flags/il.png"/> Israel <small>(Tel Aviv, Jerusalem, Masada & Dead Sea)</small><br>
-<img src="../images/flags/ir.png"/> Iran <small>(<a href="{{site.url}}/Tehran" target="_blank">Tehran</a>, Shiraz, Yazd, Varzaneh, Esfahan, Kashan, Alamut Valley, Masouleh, Qom)</small><br>
+<img src="../images/flags/ir.png"/> Iran <small>(<a href="{{site.url}}/Tehran" target="_blank">Tehran</a>,
+<a href="{{site.url}}/Shiraz" target="_blank">Shiraz</a>,
+<a href="{{site.url}}/Yazd" target="_blank">Yazd</a>, Varzaneh, Esfahan, Kashan, Alamut Valley, Masouleh, Qom)</small><br>
 <img src="../images/flags/jo.png"/> Jordan <small>(Amman, Petra, Wadi Rum, Aqaba)</small><br>
 <img src="../images/flags/ps.png"/> Palestine <small>(Jerusalem, Bethlehem, Ramallah, Nablus)</small><br>
 <img src="../images/flags/ae.png"/> United Arab Emirates <small>(Dubai)</small><br><br><br>
