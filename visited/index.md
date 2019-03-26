@@ -149,7 +149,8 @@ rollOverOutlineColor : "#000000"
 <a href="{{site.url}}/Shiraz" target="_blank">Shiraz</a>,
 <a href="{{site.url}}/Yazd" target="_blank">Yazd</a>,
 <a href="{{site.url}}/Varzaneh" target="_blank">Varzaneh</a>,
-<a href="{{site.url}}/Esfahan" target="_blank">Esfahan</a>, Kashan, Alamut Valley, Masouleh, Qom)</small><br>
+<a href="{{site.url}}/Esfahan" target="_blank">Esfahan</a>,
+<a href="{{site.url}}/Kashan" target="_blank">Kashan</a>, Alamut Valley, Masouleh, Qom)</small><br>
 <img src="../images/flags/jo.png"/> Jordan <small>(Amman, Petra, Wadi Rum, Aqaba)</small><br>
 <img src="../images/flags/ps.png"/> Palestine <small>(Jerusalem, Bethlehem, Ramallah, Nablus)</small><br>
 <img src="../images/flags/ae.png"/> United Arab Emirates <small>(Dubai)</small><br><br><br>
