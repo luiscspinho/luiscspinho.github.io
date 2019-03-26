@@ -176,7 +176,7 @@ rollOverOutlineColor : "#000000"
   <a href="{{site.url}}/Pakse" target="_blank">Pakse</a>, 
   <a href="{{site.url}}/Vientiane" target="_blank">Vientiane</a>, 
   <a href="{{site.url}}/VangVieng" target="_blank">Vang Vieng</a>, 
-  <a href="{{site.url}}/LuangPrabang" target="_blank">Luang Prabang</a></small><br>
+  <a href="{{site.url}}/LuangPrabang" target="_blank">Luang Prabang</a>)</small><br>
 <img src="../images/flags/mm.png"/> Myanmar 
 <small>(<a href="{{site.url}}/Land-of-Smiles-1" target="_blank">Yangon</a>, 
   <a href="{{site.url}}/Land-of-Smiles-2" target="_blank">Inle Lake</a>, 
