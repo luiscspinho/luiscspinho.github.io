@@ -87,9 +87,9 @@
               datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.
           </p>
 
-          {% assign size = {{site.posts.size}} %}
-          {% assign first = {{page.idPost}} %}
-          {% assign actual = size | minus: {{page.idPost}} %}
+          {% assign size = site.posts.size %}
+          {% assign first = page.idPost %}
+          {% assign actual = size | minus: page.idPost %}
           {% assign before = actual | plus: 1 %}
           {% assign after = actual | minus: 1 %}
 
