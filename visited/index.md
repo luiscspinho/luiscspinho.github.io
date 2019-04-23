@@ -30,6 +30,10 @@ areas :
     "showAsSelected": true
   },
   {
+    "id": "DE",
+    "showAsSelected": true
+  },
+  {
     "id": "CZ",
     "showAsSelected": true
   },
@@ -112,6 +116,18 @@ areas :
   {
     "id": "RU",
     "showAsSelected": true
+  },
+  {
+    "id": "AZ",
+    "showAsSelected": true
+  },
+  {
+    "id": "GE",
+    "showAsSelected": true
+  },
+  {
+    "id": "AM",
+    "showAsSelected": true
   }
 ]
 },
@@ -132,6 +148,7 @@ rollOverOutlineColor : "#000000"
 <img src="../images/flags/at.png"/> Austria <small>(Vienna)</small><br>
 <img src="../images/flags/cz.png"/> Czech Republic <small>(Prague)</small><br>
 <img src="../images/flags/fr.png"/> France <small>(Marseille, Cassis)</small><br>
+<img src="../images/flags/de.png"/> Germany <small>(Berlin)</small><br>
 <img src="../images/flags/it.png"/> Italy <small>(Milan)</small><br>
 <img src="../images/flags/pt.png"/> Portugal <small>(Homeland!)</small><br>
 <img src="../images/flags/ro.png"/> Romania <small>(Cluj Napoca)</small><br>
@@ -157,6 +174,12 @@ rollOverOutlineColor : "#000000"
 <img src="../images/flags/jo.png"/> Jordan <small>(Amman, Petra, Wadi Rum, Aqaba)</small><br>
 <img src="../images/flags/ps.png"/> Palestine <small>(Jerusalem, Bethlehem, Ramallah, Nablus)</small><br>
 <img src="../images/flags/ae.png"/> United Arab Emirates <small>(Dubai)</small><br><br><br>
+
+<h1>Caucasus</h1>
+<img src="../images/flags/az.png"/> Azerbaijan <small>(Baku, Quba, Şəki/Kiş)</small><br>
+<img src="../images/flags/am.png"/> Armenia <small>(Yerevan, Khor Virap, Lake Sevan)</small><br>
+<img src="../images/flags/ge.png"/> Georgia <small>(Sighnaghi, Kazbegi (Stepantsminda), Tbilisi, Gori/Mtskheta)</small><br>
+<img src="../images/flags/am2.png"/> Republic of Artsakh <small>(Stepanakert, Shushi)</small><br><br><br>
 
 <h1>Asia</h1>
 <img src="../images/flags/kh.png"/> Cambodia <small>(<a href="{{site.url}}/PhnomPenh" target="_blank">Phnom Penh</a>,
