@@ -19,6 +19,20 @@ image:
 </div>
 <br><br>
 
+<img src="../images/blank.JPG" alt="" data-echo="../images/flags/il.png"/> <big>Israel</big><br><br>
+<div>
+{% for post in site.posts %}
+	{% if post.tags contains 'Israel' %}
+		<a href="{{ site.url }}{{ post.url }}">
+			<div class="image" data-content="{{post.title}}">
+				<img src="../images/blank.JPG" alt="" data-echo="../images/{{post.image.feature}}" height="250" width="250" style="height:141px;margin-bottom: 4px"/>
+			</div>
+		</a>
+	{% endif %}
+{% endfor %}
+</div>
+<br><br>
+
 <img src="../images/blank.JPG" alt="" data-echo="../images/flags/ir.png"/> <big>Iran</big><br><br>
 <div>
 {% for post in site.posts %}
