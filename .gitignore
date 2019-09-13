@@ -4,3 +4,4 @@ _site
 images/india/.DS_Store
 images/.DS_Store
 _config.yml
+node_modules/

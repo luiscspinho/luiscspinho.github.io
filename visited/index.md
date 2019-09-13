@@ -161,7 +161,8 @@ rollOverOutlineColor : "#000000"
 <img src="../images/flags/eg.png"/> Egypt <small>(<a href="{{site.url}}/Cairo" target="_blank">Cairo</a>,
 <a href="{{site.url}}/Luxor" target="_blank">Luxor</a>,
 <a href="{{site.url}}/Aswan" target="_blank">Aswan</a>)</small><br>
-<img src="../images/flags/il.png"/> Israel <small>(<a href="{{site.url}}/TelAviv" target="_blank">Tel Aviv</a>, Jerusalem, Masada & Dead Sea)</small><br>
+<img src="../images/flags/il.png"/> Israel <small>(<a href="{{site.url}}/TelAviv" target="_blank">Tel Aviv</a>,
+<a href="{{site.url}}/Jerusalem" target="_blank">Jerusalem</a>, Masada & Dead Sea)</small><br>
 <img src="../images/flags/ir.png"/> Iran <small>(<a href="{{site.url}}/Tehran" target="_blank">Tehran</a>,
 <a href="{{site.url}}/Shiraz" target="_blank">Shiraz</a>,
 <a href="{{site.url}}/Yazd" target="_blank">Yazd</a>,
